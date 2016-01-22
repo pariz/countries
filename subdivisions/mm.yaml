@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "15"
+code: "05"
 countryalpha2: MM
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 96.87555
-  minlatitude: 14.884192
-  maxlongitude: 98.23784
-  maxlatitude: 17.705263
-  latitude: 17.062603
-  longitude: 97.351654
+  minlongitude: 99.00641
+  minlatitude: 12.0778055
+  maxlongitude: 99.02051
+  maxlatitude: 12.092619
+  latitude: 12.089633
+  longitude: 99.01151

@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: LI
+code: MC
 countryalpha2: MW
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 33.71627
-  minlatitude: -14.064401
-  maxlongitude: 33.847847
-  maxlatitude: -13.862413
-  latitude: -13.983333
-  longitude: 33.783333
+  minlongitude: 32.867146
+  minlatitude: -13.817161
+  maxlongitude: 32.90946
+  maxlatitude: -13.776567
+  latitude: -13.800006
+  longitude: 32.893044

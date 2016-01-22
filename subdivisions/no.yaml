@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: NO-22
+code: NO-19
 countryalpha2: "NO"
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 0
-  minlatitude: 0
-  maxlongitude: 0
-  maxlatitude: 0
-  latitude: 0
-  longitude: 0
+  minlongitude: 15.592542
+  minlatitude: 68.35601
+  maxlongitude: 22.894466
+  maxlatitude: 70.31976
+  latitude: 69.817825
+  longitude: 18.781937

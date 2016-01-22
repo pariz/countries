@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: OS
+code: KN
 countryalpha2: NG
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 4.020612
-  minlatitude: 6.969976
-  maxlongitude: 5.064702
-  maxlatitude: 8.088641
-  latitude: 7.5875845
-  longitude: 4.562443
+  minlongitude: 8.411322
+  minlatitude: 11.912873
+  maxlongitude: 8.670477
+  maxlatitude: 12.082902
+  latitude: 12.002179
+  longitude: 8.591956

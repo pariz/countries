@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: CY
+code: TOL
 countryalpha2: BZ
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -89.18936
-  minlatitude: 16.405254
-  maxlongitude: -88.55082
-  maxlatitude: 17.505054
-  latitude: 17.098444
-  longitude: -88.94138
+  minlongitude: -89.224815
+  minlatitude: 15.889429
+  maxlongitude: -88.144875
+  maxlatitude: 16.700207
+  latitude: 16.249193
+  longitude: -88.8647

@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: L
+code: G
 countryalpha2: LU
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 0
-  minlatitude: 0
-  maxlongitude: 0
-  maxlatitude: 0
-  latitude: 48.845577
-  longitude: 2.339852
+  minlongitude: 6.3601103
+  minlatitude: 49.65408
+  maxlongitude: 6.46106
+  maxlatitude: 49.6997
+  latitude: 49.68084
+  longitude: 6.440759

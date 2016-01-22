@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "13"
+code: TY
 countryalpha2: BT
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 88.89505
-  minlatitude: 27.072378
-  maxlongitude: 89.39598
-  maxlatitude: 27.621145
-  latitude: 27.265167
-  longitude: 89.1706
+  minlongitude: 91.31767
+  minlatitude: 27.383963
+  maxlongitude: 91.7379
+  maxlatitude: 28.050774
+  latitude: 27.583332
+  longitude: 91.46667

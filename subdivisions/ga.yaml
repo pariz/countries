@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "2"
+code: "5"
 countryalpha2: GA
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 12.763475
-  minlatitude: -2.481633
-  maxlongitude: 14.501671
-  maxlatitude: 0.036923
-  latitude: -1.4762543
-  longitude: 13.914399
+  minlongitude: 9.953016
+  minlatitude: -3.978806
+  maxlongitude: 12.068426
+  maxlatitude: -2.250405
+  latitude: -2.8821032
+  longitude: 11.161736

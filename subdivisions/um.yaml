@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "95"
+code: "81"
 countryalpha2: UM
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 0
-  minlatitude: 0
-  maxlongitude: 0
-  maxlatitude: 0
-  latitude: 5.883333
-  longitude: -162.08333
+  minlongitude: -176.48677
+  minlatitude: 0.1899033
+  maxlongitude: -176.47018
+  maxlatitude: 0.2008295
+  latitude: 0.1936266
+  longitude: -176.47691

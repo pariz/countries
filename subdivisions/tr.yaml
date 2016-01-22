@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "75"
+code: "10"
 countryalpha2: TR
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 42.68013
-  minlatitude: 41.09981
-  maxlongitude: 42.728138
-  maxlatitude: 41.12595
-  latitude: 41.11048
-  longitude: 42.70217
+  minlongitude: 27.838312
+  minlatitude: 39.61241
+  maxlongitude: 27.941193
+  maxlatitude: 39.683235
+  latitude: 39.64837
+  longitude: 27.88261

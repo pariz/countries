@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: NI
+code: WA
 countryalpha2: SR
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -57.34863
-  minlatitude: 5.208519
-  maxlongitude: -56.452526
-  maxlatitude: 6.00015
-  latitude: 5.585547
-  longitude: -56.831112
+  minlongitude: -55.356987
+  minlatitude: 5.658413
+  maxlongitude: -55.079983
+  maxlatitude: 5.938986
+  latitude: 5.732376
+  longitude: -55.270123

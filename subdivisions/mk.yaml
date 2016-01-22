@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: OS
+code: ZK
 countryalpha2: MK
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 20.966625
-  minlatitude: 41.504494
-  maxlongitude: 21.103441
-  maxlatitude: 41.648808
-  latitude: 41.57584
-  longitude: 21.022196
+  minlongitude: 21.593582
+  minlatitude: 41.8674
+  maxlongitude: 21.60993
+  maxlatitude: 41.87694
+  latitude: 41.873383
+  longitude: 21.602724

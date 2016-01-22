@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "28"
+code: "22"
 countryalpha2: RS
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 19.801867
-  minlatitude: 44.997936
-  maxlongitude: 19.815716
-  maxlatitude: 44.998272
-  latitude: 44.998062
-  longitude: 19.808718
+  minlongitude: 22.542658
+  minlatitude: 43.103992
+  maxlongitude: 22.611322
+  maxlatitude: 43.203487
+  latitude: 43.1557
+  longitude: 22.585682

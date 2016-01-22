@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: RR
+code: QB
 countryalpha2: MU
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 57.677967
-  minlatitude: -20.115906
-  maxlongitude: 57.71153
-  maxlatitude: -20.073627
-  latitude: -20.090534
-  longitude: 57.69492
+  minlongitude: 57.440964
+  minlatitude: -20.304443
+  maxlongitude: 57.524628
+  maxlatitude: -20.238638
+  latitude: -20.265358
+  longitude: 57.479053

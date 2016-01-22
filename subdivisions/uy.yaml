@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: TT
+code: SA
 countryalpha2: UY
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -55.1588
-  minlatitude: -33.444572
-  maxlongitude: -53.282394
-  maxlatitude: -32.682854
-  latitude: -33.147667
-  longitude: -54.25931
+  minlongitude: -58.07796
+  minlatitude: -31.847
+  maxlongitude: -55.999905
+  maxlatitude: -30.716536
+  latitude: -31.467934
+  longitude: -57.10132

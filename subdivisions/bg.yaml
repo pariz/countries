@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "26"
+code: "14"
 countryalpha2: BG
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 25.494247
-  minlatitude: 41.9114
-  maxlongitude: 25.60307
-  maxlatitude: 41.95415
-  latitude: 41.934437
-  longitude: 25.555447
+  minlongitude: 22.975527
+  minlatitude: 42.568188
+  maxlongitude: 23.127367
+  maxlatitude: 42.624397
+  latitude: 42.605186
+  longitude: 23.037836

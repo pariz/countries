@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: VD
+code: SU
 countryalpha2: AM
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 45.0665
-  minlatitude: 39.502243
-  maxlongitude: 45.825905
-  maxlatitude: 40.01381
-  latitude: 39.81079
-  longitude: 45.496716
+  minlongitude: 45.70894
+  minlatitude: 38.83052
+  maxlongitude: 46.630035
+  maxlatitude: 39.85433
+  latitude: 39.31944
+  longitude: 46.14609

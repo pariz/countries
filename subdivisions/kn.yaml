@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "09"
+code: "05"
 countryalpha2: KN
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -62.862553
-  minlatitude: 17.368374
-  maxlongitude: -62.80663
-  maxlatitude: 17.417187
-  latitude: 17.39248
-  longitude: -62.83235
+  minlongitude: -62.615414
+  minlatitude: 17.139666
+  maxlongitude: -62.53994
+  maxlatitude: 17.20772
+  latitude: 17.176964
+  longitude: -62.5796

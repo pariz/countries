@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "06"
+code: "11"
 countryalpha2: BB
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -59.575138
-  minlatitude: 13.169218
-  maxlongitude: -59.510178
-  maxlatitude: 13.235171
-  latitude: 13.204009
-  longitude: -59.546955
+  minlongitude: -59.61772
+  minlatitude: 13.146625
+  maxlongitude: -59.553192
+  maxlatitude: 13.216692
+  latitude: 13.1748295
+  longitude: -59.59881

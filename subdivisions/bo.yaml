@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: O
+code: P
 countryalpha2: BO
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -67.14741
-  minlatitude: -18.01661
-  maxlongitude: -67.027504
-  maxlatitude: -17.905895
-  latitude: -17.966667
-  longitude: -67.11667
+  minlongitude: -65.79208
+  minlatitude: -19.610703
+  maxlongitude: -65.70969
+  maxlatitude: -19.531572
+  latitude: -19.57228
+  longitude: -65.755005

@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "18"
+code: "6"
 countryalpha2: KH
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 103.18169
-  minlatitude: 10.542725
-  maxlongitude: 103.59259
-  maxlatitude: 10.78036
-  latitude: 10.625301
-  longitude: 103.5234
+  minlongitude: 0
+  minlatitude: 0
+  maxlongitude: 0
+  maxlatitude: 0
+  latitude: 12.71197
+  longitude: 104.8886

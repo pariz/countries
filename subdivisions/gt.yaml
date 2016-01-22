@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: AV
+code: ZA
 countryalpha2: GT
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -90.79805
-  minlatitude: 15.137356
-  maxlongitude: -89.37264
-  maxlatitude: 16.071905
-  latitude: 15.594288
-  longitude: -90.1495
+  minlongitude: -89.84937
+  minlatitude: 14.773436
+  maxlongitude: -89.129654
+  maxlatitude: 15.296872
+  latitude: 15.078426
+  longitude: -89.43639

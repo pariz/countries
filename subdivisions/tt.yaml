@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: RCM
+code: SIP
 countryalpha2: TT
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -61.23981
-  minlatitude: 10.074882
-  maxlongitude: -60.970318
-  maxlatitude: 10.44061
-  latitude: 10.241283
-  longitude: -61.09372
+  minlongitude: -61.56086
+  minlatitude: 10.070597
+  maxlongitude: -61.46814
+  maxlatitude: 10.169411
+  latitude: 10.133333
+  longitude: -61.5

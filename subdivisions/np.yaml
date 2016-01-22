@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: ME
+code: NA
 countryalpha2: NP
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 87.46893
-  minlatitude: 26.361404
-  maxlongitude: 88.199326
-  maxlatitude: 27.917402
-  latitude: 26.876001
-  longitude: 87.93348
+  minlongitude: 84.16066
+  minlatitude: 27.551008
+  maxlongitude: 84.34496
+  maxlatitude: 27.61414
+  latitude: 27.586348
+  longitude: 84.32265

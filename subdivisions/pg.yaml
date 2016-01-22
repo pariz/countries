@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: WHM
+code: SAN
 countryalpha2: PG
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 143.77127
-  minlatitude: -6.3646216
-  maxlongitude: 144.5993
-  maxlatitude: -5.21286
-  latitude: -5.626813
-  longitude: 144.25931
+  minlongitude: 140.9988
+  minlatitude: -5.370609
+  maxlongitude: 143.10487
+  maxlatitude: -2.6086512
+  latitude: -3.7126179
+  longitude: 141.68343

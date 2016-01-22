@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: MN
+code: NS
 countryalpha2: NI
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -86.39183
-  minlatitude: 12.01996
-  maxlongitude: -86.12509
-  maxlatitude: 12.172447
-  latitude: 12.136389
-  longitude: -86.25139
+  minlongitude: -86.785194
+  minlatitude: 13.453336
+  maxlongitude: -85.72843
+  maxlatitude: 14.077059
+  latitude: 13.78944
+  longitude: -86.01215

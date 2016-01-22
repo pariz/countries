@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "11"
+code: "31"
 countryalpha2: DZ
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 4.6884155
-  minlatitude: 20.898588
-  maxlongitude: 6.6625214
-  maxlatitude: 23.650658
-  latitude: 22.785
-  longitude: 5.522778
+  minlongitude: -0.7298183
+  minlatitude: 35.645195
+  maxlongitude: -0.5530071
+  maxlatitude: 35.769722
+  latitude: 35.697655
+  longitude: -0.6337376

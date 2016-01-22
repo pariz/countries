@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "6"
+code: "1"
 countryalpha2: AT
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 13.56417
-  minlatitude: 46.61163
-  maxlongitude: 16.17014
-  maxlatitude: 47.82789
-  latitude: 47.359344
-  longitude: 14.469983
+  minlongitude: 15.99632
+  minlatitude: 46.83047
+  maxlongitude: 17.1604
+  maxlatitude: 48.11879
+  latitude: 47.153717
+  longitude: 16.268879

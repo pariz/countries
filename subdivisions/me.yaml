@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "09"
+code: "07"
 countryalpha2: ME
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 19.511032
-  minlatitude: 42.814606
-  maxlongitude: 19.542017
-  maxlatitude: 42.83387
-  latitude: 42.823612
-  longitude: 19.5225
+  minlongitude: 19.085354
+  minlatitude: 42.54119
+  maxlongitude: 19.120373
+  maxlatitude: 42.563133
+  latitude: 42.553753
+  longitude: 19.107738

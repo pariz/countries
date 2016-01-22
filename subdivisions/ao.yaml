@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: CNO
+code: UIG
 countryalpha2: AO
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 13.998083
-  minlatitude: -9.787161
-  maxlongitude: 15.830849
-  maxlatitude: -7.937077
-  latitude: -9.239851
-  longitude: 14.658782
+  minlongitude: 15.035648
+  minlatitude: -7.632309
+  maxlongitude: 15.077019
+  maxlatitude: -7.5901117
+  latitude: -7.616667
+  longitude: 15.05

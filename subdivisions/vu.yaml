@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: TAE
+code: MAP
 countryalpha2: VU
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 168.98608
-  minlatitude: -20.25049
-  maxlongitude: 170.2373
-  maxlatitude: -18.621328
-  latitude: -18.723783
-  longitude: 169.0645
+  minlongitude: 167.16324
+  minlatitude: -16.591343
+  maxlongitude: 168.36801
+  maxlatitude: -15.882122
+  latitude: -16.40114
+  longitude: 167.60779

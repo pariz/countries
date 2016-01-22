@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: GI
+code: VF
 countryalpha2: WS
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -172.61488
-  minlatitude: -13.623739
-  maxlongitude: -172.37433
-  maxlatitude: -13.445993
-  latitude: -13.546801
-  longitude: -172.49693
+  minlongitude: -171.60667
+  minlatitude: -13.9789715
+  maxlongitude: -171.48192
+  maxlatitude: -13.87306
+  latitude: -13.94709
+  longitude: -171.54318

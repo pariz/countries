@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "25"
+code: "16"
 countryalpha2: TZ
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 39.05671
-  minlatitude: -5.1261044
-  maxlongitude: 39.13125
-  maxlatitude: -5.054838
-  latitude: -5.0888753
-  longitude: 39.10232
+  minlongitude: 37.62354
+  minlatitude: -6.8526344
+  maxlongitude: 37.697697
+  maxlatitude: -6.792041
+  latitude: -6.816667
+  longitude: 37.666668

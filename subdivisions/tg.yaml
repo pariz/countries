@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: K
+code: S
 countryalpha2: TG
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 1.1657524
-  minlatitude: 9.53431
-  maxlongitude: 1.2201691
-  maxlatitude: 9.566135
-  latitude: 9.548889
-  longitude: 1.190556
+  minlongitude: -0.1473239
+  minlatitude: 9.879532
+  maxlongitude: 0.9969091
+  maxlatitude: 11.138977
+  latitude: 10.529178
+  longitude: 0.5257823

@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: LAN
+code: AGB
 countryalpha2: GB
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -3.057182
-  minlatitude: 53.482765
-  maxlongitude: -2.0450728
-  maxlatitude: 54.23956
-  latitude: 53.96901
-  longitude: -2.6276908
+  minlongitude: -7.1124578
+  minlatitude: 55.274487
+  maxlongitude: -4.5598516
+  maxlatitude: 56.70485
+  latitude: 56.370045
+  longitude: -5.0318966

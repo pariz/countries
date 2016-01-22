@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: ARA
+code: CES
 countryalpha2: CO
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -71.20248
-  minlatitude: 6.48352
-  maxlongitude: -69.76795
-  maxlatitude: 7.10438
-  latitude: 7.079371
-  longitude: -70.75838
+  minlongitude: -74.13982
+  minlatitude: 7.6764
+  maxlongitude: -72.88257
+  maxlatitude: 10.86722
+  latitude: 9.337295
+  longitude: -73.65362

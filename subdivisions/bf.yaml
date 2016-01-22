@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: ZON
+code: ZIR
 countryalpha2: BF
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -2.727262
-  minlatitude: 12.953415
-  maxlongitude: -2.0683491
-  maxlatitude: 13.35255
-  latitude: 13.116592
-  longitude: -2.4208713
+  minlongitude: -2.337875
+  minlatitude: 11.293042
+  maxlongitude: -1.288668
+  maxlatitude: 12.017244
+  latitude: 11.6095
+  longitude: -1.9099238

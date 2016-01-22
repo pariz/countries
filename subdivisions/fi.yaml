@@ -1,6 +1,6 @@
 name: ""
 names: []
-code: OL
+code: IS
 countryalpha2: FI
 coordinates:
   longitudestring: ""
@@ -9,5 +9,5 @@ coordinates:
   minlatitude: 0
   maxlongitude: 0
   maxlatitude: 0
-  latitude: 65.62343
-  longitude: 25.148241
+  latitude: 0
+  longitude: 0

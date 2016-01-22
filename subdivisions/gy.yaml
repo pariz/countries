@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: CU
+code: UD
 countryalpha2: GY
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -61.39627
-  minlatitude: 5.16021
-  maxlongitude: -58.56569
-  maxlatitude: 7.233457
-  latitude: 6.4642143
-  longitude: -60.211075
+  minlongitude: -58.870636
+  minlatitude: 4.601077
+  maxlongitude: -57.631374
+  maxlatitude: 6.508296
+  latitude: 5.306488
+  longitude: -58.189293

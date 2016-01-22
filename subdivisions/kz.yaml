@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: ZHA
+code: ZAP
 countryalpha2: KZ
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 68.99391
-  minlatitude: 42.22123
-  maxlongitude: 75.77343
-  maxlatitude: 46.03662
-  latitude: 44.22203
-  longitude: 72.3658
+  minlongitude: 46.491856
+  minlatitude: 48.0025
+  maxlongitude: 54.557465
+  maxlatitude: 51.766598
+  latitude: 49.567974
+  longitude: 50.806664

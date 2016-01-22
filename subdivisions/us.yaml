@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: AK
+code: SC
 countryalpha2: US
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 172.44452
-  minlatitude: 51.214767
-  maxlongitude: -129.99455
-  maxlatitude: 71.38687
-  latitude: 64.20084
-  longitude: -149.49367
+  minlongitude: -83.35326
+  minlatitude: 32.03456
+  maxlongitude: -78.54082
+  maxlatitude: 35.21554
+  latitude: 33.836082
+  longitude: -81.16373

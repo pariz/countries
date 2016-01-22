@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: VLG
+code: SVE
 countryalpha2: RU
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 34.716118
-  minlatitude: 58.483177
-  maxlongitude: 47.157887
-  maxlatitude: 61.607277
-  latitude: 59.87067
-  longitude: 40.65554
+  minlongitude: 57.236015
+  minlatitude: 56.056232
+  maxlongitude: 66.17865
+  maxlatitude: 61.945904
+  latitude: 59.007736
+  longitude: 61.93162

@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: UN
+code: SO
 countryalpha2: MD
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 27.759275
-  minlatitude: 47.169014
-  maxlongitude: 27.82792
-  maxlatitude: 47.249348
-  latitude: 47.216667
-  longitude: 27.816668
+  minlongitude: 28.250484
+  minlatitude: 48.120956
+  maxlongitude: 28.328676
+  maxlatitude: 48.187405
+  latitude: 48.166668
+  longitude: 28.3

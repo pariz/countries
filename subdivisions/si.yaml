@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "153"
+code: "138"
 countryalpha2: SI
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 15.938173
-  minlatitude: 46.560215
-  maxlongitude: 15.955407
-  maxlatitude: 46.569534
-  latitude: 46.56707
-  longitude: 15.942975
+  minlongitude: 14.459533
+  minlatitude: 46.179585
+  maxlongitude: 14.508323
+  maxlatitude: 46.205814
+  latitude: 46.189663
+  longitude: 14.493854

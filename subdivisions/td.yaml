@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: TA
+code: HL
 countryalpha2: TD
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 15.438418
-  minlatitude: 9.006821
-  maxlongitude: 17.552967
-  maxlatitude: 10.222793
-  latitude: 9.662573
+  minlongitude: 14.550512
+  minlatitude: 11.43135
+  maxlongitude: 17.655386
+  maxlatitude: 13.350106
+  latitude: 12.457727
   longitude: 16.723463

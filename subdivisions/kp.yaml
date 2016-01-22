@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: YAN
+code: PYO
 countryalpha2: KP
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 126.902534
-  minlatitude: 40.416164
-  maxlongitude: 129.05037
-  maxlatitude: 42.095005
-  latitude: 41.23189
-  longitude: 128.50763
+  minlongitude: 125.5909
+  minlatitude: 38.951797
+  maxlongitude: 125.893326
+  maxlatitude: 39.106476
+  latitude: 39.03922
+  longitude: 125.76253

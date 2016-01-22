@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "03"
+code: "13"
 countryalpha2: HR
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 15.7676525
-  minlatitude: 44.99591
-  maxlongitude: 17.194914
-  maxlatitude: 45.669918
-  latitude: 45.383793
-  longitude: 16.5381
+  minlongitude: 14.567019
+  minlatitude: 43.822807
+  maxlongitude: 16.220242
+  maxlatitude: 44.53845
+  latitude: 44.14694
+  longitude: 15.616494

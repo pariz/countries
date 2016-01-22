@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: KU
+code: JA
 countryalpha2: KW
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 47.957962
-  minlatitude: 29.358782
-  maxlongitude: 48.00581
-  maxlatitude: 29.393349
-  latitude: 29.375858
-  longitude: 47.977406
+  minlongitude: 47.628937
+  minlatitude: 29.281134
+  maxlongitude: 47.79268
+  maxlatitude: 29.374575
+  latitude: 29.336573
+  longitude: 47.67553

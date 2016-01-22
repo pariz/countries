@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "4"
+code: "7"
 countryalpha2: NE
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 7.07729
-  minlatitude: 13.46399
-  maxlongitude: 7.128497
-  maxlatitude: 13.531919
-  latitude: 13.483333
-  longitude: 7.1
+  minlongitude: 8.960231
+  minlatitude: 13.775256
+  maxlongitude: 9.0148115
+  maxlatitude: 13.834538
+  latitude: 13.805278
+  longitude: 8.988333

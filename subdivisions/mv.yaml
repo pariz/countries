@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "27"
+code: "29"
 countryalpha2: MV
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 73.09245
-  minlatitude: 0.3470336
-  maxlongitude: 73.57354
-  maxlatitude: 0.8975593
-  latitude: 0.7593605
-  longitude: 73.43309
+  minlongitude: 73.41004
+  minlatitude: -0.3118643
+  maxlongitude: 73.441414
+  maxlatitude: -0.2771461
+  latitude: -0.3006425
+  longitude: 73.42391

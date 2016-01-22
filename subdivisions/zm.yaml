@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "01"
+code: "08"
 countryalpha2: ZM
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 21.99937
-  minlatitude: -17.63928
-  maxlongitude: 25.52071
-  maxlatitude: -13.709041
-  latitude: -15.945491
-  longitude: 23.382355
+  minlongitude: 26.801155
+  minlatitude: -13.924553
+  maxlongitude: 29.020134
+  maxlatitude: -12.218456
+  latitude: -13.057007
+  longitude: 27.549585

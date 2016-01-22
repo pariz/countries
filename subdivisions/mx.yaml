@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: BCN
+code: MEX
 countryalpha2: MX
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -118.36443
-  minlatitude: 28
-  maxlongitude: -112.755554
-  maxlatitude: 32.718655
-  latitude: 30.840633
-  longitude: -115.28376
+  minlongitude: -99.36418
+  minlatitude: 19.048279
+  maxlongitude: -98.940186
+  maxlatitude: 19.591919
+  latitude: 19.432608
+  longitude: -99.13321

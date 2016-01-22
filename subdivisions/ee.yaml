@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "51"
+code: "44"
 countryalpha2: EE
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 25.195017
-  minlatitude: 58.60611
-  maxlongitude: 26.1688
-  maxlatitude: 59.269653
-  latitude: 58.886673
-  longitude: 25.500063
+  minlongitude: 26.702332
+  minlatitude: 58.86564
+  maxlongitude: 28.209005
+  maxlatitude: 59.500565
+  latitude: 59.259266
+  longitude: 27.413654

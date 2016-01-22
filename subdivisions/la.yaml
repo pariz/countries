@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: VT
+code: XE
 countryalpha2: LA
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 102.038536
-  minlatitude: 17.804958
-  maxlongitude: 103.10107
-  maxlatitude: 18.43515
-  latitude: 18.11054
-  longitude: 102.5298
+  minlongitude: 106.69492
+  minlatitude: 15.329966
+  maxlongitude: 106.755005
+  maxlatitude: 15.370853
+  latitude: 15.344444
+  longitude: 106.7175

@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: MK
+code: RB
 countryalpha2: SB
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 161.26393
-  minlatitude: -10.901073
-  maxlongitude: 162.48425
-  maxlatitude: -9.714577
-  latitude: -10.573745
-  longitude: 161.8097
+  minlongitude: 159.75197
+  minlatitude: -11.8505745
+  maxlongitude: 160.58209
+  maxlatitude: -11.273213
+  latitude: -11.613144
+  longitude: 160.16939

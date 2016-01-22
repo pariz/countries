@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: SD
+code: GA
 countryalpha2: HT
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -74.446304
-  minlatitude: 18.022078
-  maxlongitude: -72.98867
-  maxlatitude: 18.423094
-  latitude: 18.332
-  longitude: -73.70071
+  minlongitude: -74.4769
+  minlatitude: 18.357681
+  maxlongitude: -73.6987
+  maxlatitude: 18.675987
+  latitude: 18.548925
+  longitude: -74.07701

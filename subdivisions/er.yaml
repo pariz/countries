@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: GB
+code: SK
 countryalpha2: ER
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 36.438766
-  minlatitude: 14.112427
-  maxlongitude: 38.768604
-  maxlatitude: 16.285809
-  latitude: 15.406882
-  longitude: 37.63866
+  minlongitude: 37.96968
+  minlatitude: 14.337765
+  maxlongitude: 41.29741
+  maxlatitude: 18.003086
+  latitude: 16.2584
+  longitude: 38.820545

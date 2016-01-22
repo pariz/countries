@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: ZI
+code: TA
 countryalpha2: SK
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 18.322662
-  minlatitude: 48.741264
-  maxlongitude: 20.060076
-  maxlatitude: 49.613815
-  latitude: 49.203144
-  longitude: 19.364573
+  minlongitude: 16.933916
+  minlatitude: 47.75745
+  maxlongitude: 17.98545
+  maxlatitude: 48.87821
+  latitude: 48.39439
+  longitude: 17.72162

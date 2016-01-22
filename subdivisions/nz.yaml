@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: STL
+code: TKI
 countryalpha2: NZ
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 166.42613
-  minlatitude: -47.28995
-  maxlongitude: 169.49394
-  maxlatitude: -44.29056
-  latitude: -45.848915
-  longitude: 167.67554
+  minlongitude: 173.75133
+  minlatitude: -39.869373
+  maxlongitude: 174.9762
+  maxlatitude: -38.706394
+  latitude: -39.353813
+  longitude: 174.43828

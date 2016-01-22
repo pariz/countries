@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "42"
+code: "51"
 countryalpha2: LK
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 80.31809
-  minlatitude: 9.336519
-  maxlongitude: 80.43511
-  maxlatitude: 9.417353
-  latitude: 9.380288
-  longitude: 80.377
+  minlongitude: 81.650856
+  minlatitude: 7.6971703
+  maxlongitude: 81.7061
+  maxlatitude: 7.77083
+  latitude: 7.730997
+  longitude: 81.67473

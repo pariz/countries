@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: Z
+code: TA
 countryalpha2: IL
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 35.027298
-  minlatitude: 32.386967
-  maxlongitude: 35.896244
-  maxlatitude: 33.332806
-  latitude: 32.897224
-  longitude: 35.302723
+  minlongitude: 34.742516
+  minlatitude: 32.029255
+  maxlongitude: 34.851974
+  maxlatitude: 32.146507
+  latitude: 32.0853
+  longitude: 34.78177

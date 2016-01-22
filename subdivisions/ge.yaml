@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: KK
+code: AB
 countryalpha2: GE
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 43.669064
-  minlatitude: 41.15626
-  maxlongitude: 45.31024
-  maxlatitude: 41.858704
-  latitude: 41.479183
-  longitude: 44.656044
+  minlongitude: 40.007584
+  minlatitude: 42.412457
+  maxlongitude: 42.149975
+  maxlatitude: 43.586628
+  latitude: 43.001553
+  longitude: 41.023407

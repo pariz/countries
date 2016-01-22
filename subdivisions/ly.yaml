@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: GD
+code: QB
 countryalpha2: LY
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 9.476566
-  minlatitude: 30.107637
-  maxlongitude: 9.514847
-  maxlatitude: 30.15381
-  latitude: 30.133333
-  longitude: 9.5
+  minlongitude: 22.210024
+  minlatitude: 32.745934
+  maxlongitude: 22.263594
+  maxlatitude: 32.77895
+  latitude: 32.766666
+  longitude: 22.25

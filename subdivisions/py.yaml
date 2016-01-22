@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "16"
+code: "13"
 countryalpha2: PY
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -61.90993
-  minlatitude: -22.384459
-  maxlongitude: -57.817802
-  maxlatitude: -19.29404
-  latitude: -20.08525
-  longitude: -59.47209
+  minlongitude: -56.817028
+  minlatitude: -23.835316
+  maxlongitude: -55.504482
+  maxlatitude: -22.033272
+  latitude: -22.559027
+  longitude: -56.024998

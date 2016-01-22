@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "31"
+code: "08"
 countryalpha2: DO
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -70.51476
-  minlatitude: 18.530886
-  maxlongitude: -70.49832
-  maxlatitude: 18.555544
-  latitude: 18.55
-  longitude: -70.5
+  minlongitude: -69.05139
+  minlatitude: 18.749659
+  maxlongitude: -69.03066
+  maxlatitude: 18.778835
+  latitude: 18.763
+  longitude: -69.042

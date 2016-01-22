@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: PAN
+code: KAB
 countryalpha2: AF
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 69.533844
-  minlatitude: 35.12424
-  maxlongitude: 69.7982
-  maxlatitude: 35.437454
-  latitude: 35.335045
-  longitude: 69.71678
+  minlongitude: 68.94951
+  minlatitude: 34.34549
+  maxlongitude: 69.44595
+  maxlatitude: 34.76192
+  latitude: 34.533333
+  longitude: 69.166664

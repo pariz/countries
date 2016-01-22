@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: LH
+code: WH
 countryalpha2: IE
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -6.695343
-  minlatitude: 53.69849
-  maxlongitude: -6.1030107
-  maxlatitude: 54.113953
-  latitude: 53.896976
-  longitude: -6.4670973
+  minlongitude: -7.9729533
+  minlatitude: 53.317963
+  maxlongitude: -6.9547844
+  maxlatitude: 53.78796
+  latitude: 53.53453
+  longitude: -7.4653215

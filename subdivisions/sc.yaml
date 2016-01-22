@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "23"
+code: "22"
 countryalpha2: SC
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 55.486446
-  minlatitude: -4.80503
-  maxlongitude: 55.534912
-  maxlatitude: -4.7590714
-  latitude: -4.784369
-  longitude: 55.508102
+  minlongitude: 55.43233
+  minlatitude: -4.6316137
+  maxlongitude: 55.44843
+  maxlatitude: -4.61719
+  latitude: -4.625195
+  longitude: 55.44301

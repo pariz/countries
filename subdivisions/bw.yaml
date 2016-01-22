@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: GH
+code: NW
 countryalpha2: BW
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 21.623755
-  minlatitude: -21.714134
-  maxlongitude: 21.665897
-  maxlatitude: -21.678406
-  latitude: -21.698305
-  longitude: 21.64872
+  minlongitude: 20.99695
+  minlatitude: -21.000256
+  maxlongitude: 25.98795
+  maxlatitude: -17.780813
+  latitude: -19.190533
+  longitude: 23.0012

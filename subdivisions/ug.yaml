@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "417"
+code: "303"
 countryalpha2: UG
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 30.478306
-  minlatitude: -1.0761676
-  maxlongitude: 30.917072
-  maxlatitude: -0.6023487
-  latitude: -0.7454997
-  longitude: 30.757984
+  minlongitude: 30.882786
+  minlatitude: 2.980156
+  maxlongitude: 30.938156
+  maxlatitude: 3.059795
+  latitude: 3.038333
+  longitude: 30.910833

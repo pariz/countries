@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: MO
+code: BT
 countryalpha2: IT
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 10.85318
-  minlatitude: 44.606155
-  maxlongitude: 10.990284
-  maxlatitude: 44.6942
-  latitude: 44.648838
-  longitude: 10.920087
+  minlongitude: 15.870252
+  minlatitude: 40.89772
+  maxlongitude: 16.54225
+  maxlatitude: 41.44171
+  latitude: 41.200455
+  longitude: 16.205149

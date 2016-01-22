@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: MS
+code: MN
 countryalpha2: ZW
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 26.698244
-  minlatitude: -22.351074
-  maxlongitude: 31.114895
-  maxlatitude: -19.48262
-  latitude: -21.052338
-  longitude: 29.045992
+  minlongitude: 25.237028
+  minlatitude: -20.343325
+  maxlongitude: 29.229252
+  maxlatitude: -17.020487
+  latitude: -18.533157
+  longitude: 27.549585

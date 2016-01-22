@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: WC
+code: NC
 countryalpha2: ZA
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 17.757565
-  minlatitude: -34.833004
-  maxlongitude: 24.22241
-  maxlatitude: -30.43026
-  latitude: -33.22779
+  minlongitude: 16.45194
+  minlatitude: -32.94499
+  maxlongitude: 25.54933
+  maxlatitude: -24.76586
+  latitude: -29.04668
   longitude: 21.85686

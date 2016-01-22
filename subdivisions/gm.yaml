@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: U
+code: W
 countryalpha2: GM
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -14.546916
-  minlatitude: 13.215689
-  maxlongitude: -13.797793
-  maxlatitude: 13.5734005
-  latitude: 13.425736
-  longitude: -14.007235
+  minlongitude: -16.813631
+  minlatitude: 13.066817
+  maxlongitude: -15.810324
+  maxlatitude: 13.452582
+  latitude: 13.22292
+  longitude: -16.58198

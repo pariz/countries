@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "42"
+code: "43"
 countryalpha2: MT
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 14.29527
-  minlatitude: 36.02573
-  maxlongitude: 14.336348
-  maxlatitude: 36.050236
-  latitude: 36.03528
-  longitude: 14.310278
+  minlongitude: 14.450884
+  minlatitude: 35.862606
+  maxlongitude: 14.4852915
+  maxlatitude: 35.89071
+  latitude: 35.879444
+  longitude: 14.472222

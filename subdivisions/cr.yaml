@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: H
+code: A
 countryalpha2: CR
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -84.19047
-  minlatitude: 9.951319
-  maxlongitude: -83.714806
-  maxlatitude: 10.789644
-  latitude: 10.473523
-  longitude: -84.01674
+  minlongitude: -85.43864
+  minlatitude: 9.821506
+  maxlongitude: -84.14951
+  maxlatitude: 11.079316
+  latitude: 10.391583
+  longitude: -84.43827

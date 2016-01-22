@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "8"
+code: "2"
 countryalpha2: IS
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -21.922003
-  minlatitude: 63.297382
-  maxlongitude: -17.265951
-  maxlatitude: 64.877304
-  latitude: 64.26614
-  longitude: -18.815813
+  minlongitude: -22.754467
+  minlatitude: 63.80002
+  maxlongitude: -21.711943
+  maxlatitude: 64.08244
+  latitude: 63.91548
+  longitude: -22.364967

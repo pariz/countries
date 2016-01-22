@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: BOD
+code: OUD
 countryalpha2: EH
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -14.50058
-  minlatitude: 26.07527
-  maxlongitude: -14.446778
-  maxlatitude: 26.15655
-  latitude: 26.11186
-  longitude: -14.478153
+  minlongitude: -15.932538
+  minlatitude: 23.698223
+  maxlongitude: -15.931994
+  maxlatitude: 23.69961
+  latitude: 23.698978
+  longitude: -15.93223

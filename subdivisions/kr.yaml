@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "49"
+code: "48"
 countryalpha2: KR
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 126.16372
-  minlatitude: 33.10611
-  maxlongitude: 126.97428
-  maxlatitude: 34.00622
-  latitude: 33.48901
-  longitude: 126.4983
+  minlongitude: 127.56222
+  minlatitude: 34.532166
+  maxlongitude: 129.21988
+  maxlatitude: 35.909958
+  latitude: 35.4606
+  longitude: 128.2132

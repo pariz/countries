@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: BZ
+code: SS
 countryalpha2: HU
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 20.051893
-  minlatitude: 47.64265
-  maxlongitude: 22.129282
-  maxlatitude: 48.585236
-  latitude: 48.29394
-  longitude: 20.69341
+  minlongitude: 18.610815
+  minlatitude: 46.29435
+  maxlongitude: 18.851652
+  maxlatitude: 46.40404
+  latitude: 46.34743
+  longitude: 18.70623

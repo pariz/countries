@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "82"
+code: "74"
 countryalpha2: TH
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 97.63155
-  minlatitude: 7.883198
-  maxlongitude: 98.70708
-  maxlatitude: 9.463429
-  latitude: 8.450141
-  longitude: 98.52553
+  minlongitude: 100.02693
+  minlatitude: 13.425041
+  maxlongitude: 100.42012
+  maxlatitude: 13.721126
+  latitude: 13.547522
+  longitude: 100.2744

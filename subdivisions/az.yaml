@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: ZAN
+code: TOV
 countryalpha2: AZ
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 46.43834
-  minlatitude: 38.872734
-  maxlongitude: 46.876026
-  maxlatitude: 39.224586
-  latitude: 39.031895
-  longitude: 46.626537
+  minlongitude: 45.59075
+  minlatitude: 40.975426
+  maxlongitude: 45.643646
+  maxlatitude: 41.0085
+  latitude: 40.9922
+  longitude: 45.6289

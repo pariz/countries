@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "05"
+code: "08"
 countryalpha2: LI
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 0
-  minlatitude: 0
-  maxlongitude: 0
-  maxlatitude: 0
-  latitude: 47.18553
-  longitude: 9.545365
+  minlongitude: 9.52844
+  minlatitude: 47.22414
+  maxlongitude: 9.56735
+  maxlatitude: 47.25243
+  latitude: 47.239685
+  longitude: 9.551195

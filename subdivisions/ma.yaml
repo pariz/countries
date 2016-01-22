@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: TET
+code: TNT
 countryalpha2: MA
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -5.4377174
-  minlatitude: 35.55623
-  maxlongitude: -5.2952385
-  maxlatitude: 35.613907
-  latitude: 35.566666
-  longitude: -5.366667
+  minlongitude: -11.125803
+  minlatitude: 28.408916
+  maxlongitude: -11.0713005
+  maxlatitude: 28.452393
+  latitude: 28.438042
+  longitude: -11.098738

@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: AL
+code: MO
 countryalpha2: BJ
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 2.019249
-  minlatitude: 10.50447
-  maxlongitude: 3.848022
-  maxlatitude: 12.418346
-  latitude: 10.968109
-  longitude: 2.7779813
+  minlongitude: 1.5739199
+  minlatitude: 6.23406
+  maxlongitude: 2.019586
+  maxlatitude: 6.797614
+  latitude: 6.660718
+  longitude: 1.7538817

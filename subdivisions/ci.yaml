@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "09"
+code: "13"
 countryalpha2: CI
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -6.5960402
-  minlatitude: 5.7840333
-  maxlongitude: -6.59541
-  maxlatitude: 5.784247
-  latitude: 5.78413
-  longitude: -6.5957327
+  minlongitude: -3.806113
+  minlatitude: 5.079289
+  maxlongitude: -2.72626
+  maxlatitude: 6.244889
+  latitude: 5.552793
+  longitude: -3.2583625

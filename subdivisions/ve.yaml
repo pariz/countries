@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: W
+code: P
 countryalpha2: VE
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -67.669495
-  minlatitude: 10.889361
-  maxlongitude: -63.078728
-  maxlatitude: 11.984823
-  latitude: 10.937705
-  longitude: -65.35696
+  minlongitude: -70.20323
+  minlatitude: 8.066404
+  maxlongitude: -68.42865
+  maxlatitude: 9.936261
+  latitude: 9.094399
+  longitude: -69.09702

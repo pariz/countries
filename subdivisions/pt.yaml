@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "17"
+code: "06"
 countryalpha2: PT
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -7.7902946
-  minlatitude: 41.24016
-  maxlongitude: -7.6639147
-  maxlatitude: 41.36355
-  latitude: 41.301037
-  longitude: -7.742235
+  minlongitude: -8.509641
+  minlatitude: 40.17137
+  maxlongitude: -8.322907
+  maxlatitude: 40.286148
+  latitude: 40.203316
+  longitude: -8.410257

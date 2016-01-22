@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "147"
+code: "101"
 countryalpha2: DK
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 12.491767
-  minlatitude: 55.666374
-  maxlongitude: 12.557799
-  maxlatitude: 55.69801
-  latitude: 55.67707
-  longitude: 12.513321
+  minlongitude: 12.4533825
+  minlatitude: 55.61544
+  maxlongitude: 12.734265
+  maxlatitude: 55.727093
+  latitude: 55.676098
+  longitude: 12.568337

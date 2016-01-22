@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: MW
+code: SN
 countryalpha2: YE
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 43.252296
-  minlatitude: 15.006784
-  maxlongitude: 43.924873
-  maxlatitude: 15.530416
-  latitude: 15.396323
-  longitude: 43.560696
+  minlongitude: 49.645714
+  minlatitude: 16.08029
+  maxlongitude: 49.66627
+  maxlatitude: 16.098145
+  latitude: 16.09053
+  longitude: 49.65541

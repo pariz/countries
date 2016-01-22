@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: GJ
+code: LD
 countryalpha2: IN
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 68.191536
-  minlatitude: 20.127954
-  maxlongitude: 74.47649
-  maxlatitude: 24.70571
-  latitude: 22.258652
-  longitude: 71.19238
+  minlongitude: 71.88442
+  minlatitude: 8.265818
+  maxlongitude: 73.68483
+  maxlatitude: 12.393426
+  latitude: 10.076012
+  longitude: 73.63035

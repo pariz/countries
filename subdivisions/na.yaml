@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: KA
+code: OT
 countryalpha2: NA
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 14.801895
-  minlatitude: -28.97143
-  maxlongitude: 0
-  maxlatitude: -25.011831
-  latitude: -26.842964
-  longitude: 17.290283
+  minlongitude: 15.870873
+  minlatitude: -19.520187
+  maxlongitude: 18.204666
+  maxlatitude: -17.695574
+  latitude: -18.415258
+  longitude: 16.91225

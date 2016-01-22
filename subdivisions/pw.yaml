@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "350"
+code: "222"
 countryalpha2: PW
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 134.22171
-  minlatitude: 6.973422
-  maxlongitude: 134.27061
-  maxlatitude: 7.049378
-  latitude: 7.0022907
-  longitude: 134.24316
+  minlongitude: 134.5351
+  minlatitude: 7.555898
+  maxlongitude: 134.60225
+  maxlatitude: 7.6205106
+  latitude: 7.5850487
+  longitude: 134.55962

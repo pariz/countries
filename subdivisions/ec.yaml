@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: W
+code: A
 countryalpha2: EC
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -92.00849
-  minlatitude: -1.4115146
-  maxlongitude: -89.2408
-  maxlatitude: 1.6815752
-  latitude: -0.8292784
-  longitude: -90.98206
+  minlongitude: -79.7604
+  minlatitude: -3.620066
+  maxlongitude: -78.43985
+  maxlatitude: -2.55303
+  latitude: -2.9633245
+  longitude: -79.10969

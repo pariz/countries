@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "33"
+code: "94"
 countryalpha2: GR
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 20.82188
-  minlatitude: 39.63826
-  maxlongitude: 20.872494
-  maxlatitude: 39.688797
-  latitude: 39.665028
-  longitude: 20.853746
+  minlongitude: 23.992174
+  minlatitude: 35.49165
+  maxlongitude: 24.057306
+  maxlatitude: 35.523457
+  latitude: 35.51383
+  longitude: 24.018036

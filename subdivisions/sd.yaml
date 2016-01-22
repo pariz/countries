@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "07"
+code: "01"
 countryalpha2: SD
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 32.41587
-  minlatitude: 13.604472
-  maxlongitude: 34.305763
-  maxlatitude: 15.476725
-  latitude: 14.885962
-  longitude: 33.438354
+  minlongitude: 0
+  minlatitude: 16.511393
+  maxlongitude: 32.63746
+  maxlatitude: 22.176529
+  latitude: 18.444897
+  longitude: 30.15893

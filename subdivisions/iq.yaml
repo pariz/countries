@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: DI
+code: NA
 countryalpha2: IQ
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 44.292854
-  minlatitude: 33.00698
-  maxlongitude: 46.01852
-  maxlatitude: 35.11539
-  latitude: 33.77335
-  longitude: 45.149452
+  minlongitude: 44.273617
+  minlatitude: 31.9676
+  maxlongitude: 44.38537
+  maxlatitude: 32.076115
+  latitude: 0
+  longitude: 44.33

@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "N"
+code: T
 countryalpha2: KG
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 75.899216
-  minlatitude: 41.41428
-  maxlongitude: 76.06307
-  maxlatitude: 41.436905
-  latitude: 41.433334
-  longitude: 0
+  minlongitude: 72.16061
+  minlatitude: 42.5045
+  maxlongitude: 72.28523
+  maxlatitude: 42.55548
+  latitude: 42.516666
+  longitude: 72.23333

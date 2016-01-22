@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: VN
+code: SB
 countryalpha2: RO
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 26.374235
-  minlatitude: 45.366077
-  maxlongitude: 27.558525
-  maxlatitude: 46.204407
-  latitude: 45.813488
-  longitude: 27.065754
+  minlongitude: 24.063148
+  minlatitude: 45.7244
+  maxlongitude: 24.216528
+  maxlatitude: 45.841595
+  latitude: 45.792786
+  longitude: 24.15207

@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "67"
+code: "50"
 countryalpha2: VN
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 105.924065
-  minlatitude: 19.968296
-  maxlongitude: 106.564964
-  maxlatitude: 20.499666
-  latitude: 20.27918
-  longitude: 106.20515
+  minlongitude: 106.01477
+  minlatitude: 9.808341
+  maxlongitude: 106.79763
+  maxlatitude: 10.337317
+  latitude: 10.108155
+  longitude: 106.44059

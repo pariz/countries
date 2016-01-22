@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: SP
+code: TO
 countryalpha2: BR
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -46.825516
-  minlatitude: -24.00822
-  maxlongitude: -46.365086
-  maxlatitude: -23.356604
-  latitude: -23.55052
-  longitude: -46.63331
+  minlongitude: -50.742058
+  minlatitude: -13.467715
+  maxlongitude: -45.69608
+  maxlatitude: -5.1683826
+  latitude: -10.17528
+  longitude: -48.29825

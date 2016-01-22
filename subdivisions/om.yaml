@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: MU
+code: WU
 countryalpha2: OM
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 56.09789
-  minlatitude: 25.24196
-  maxlongitude: 56.537693
-  maxlatitude: 26.385954
-  latitude: 25.994265
-  longitude: 56.248226
+  minlongitude: 55
+  minlatitude: 17.945673
+  maxlongitude: 58.322742
+  maxlatitude: 21.420908
+  latitude: 20.173866
+  longitude: 56.561646

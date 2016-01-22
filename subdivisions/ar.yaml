@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: V
+code: X
 countryalpha2: AR
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -68.61186
-  minlatitude: -55.05719
-  maxlongitude: -64.11058
-  maxlatitude: -52.658768
-  latitude: -54.308353
-  longitude: -67.745155
+  minlongitude: -64.311584
+  minlatitude: -31.491217
+  maxlongitude: -64.06213
+  maxlatitude: -31.306293
+  latitude: -31.39893
+  longitude: -64.18213

@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: SU
+code: ID
 countryalpha2: SY
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 36.54499
-  minlatitude: 32.668896
-  maxlongitude: 36.60769
-  maxlatitude: 32.734875
-  latitude: 32.7
-  longitude: 36.566666
+  minlongitude: 36.60368
+  minlatitude: 35.906063
+  maxlongitude: 36.667454
+  maxlatitude: 35.94718
+  latitude: 35.933334
+  longitude: 36.63333

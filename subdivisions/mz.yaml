@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: S
+code: G
 countryalpha2: MZ
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 33.399296
-  minlatitude: -21.315643
-  maxlongitude: 36.19298
-  maxlatitude: -16.810862
-  latitude: -19.203907
-  longitude: 34.862415
+  minlongitude: 31.306301
+  minlatitude: -25.372038
+  maxlongitude: 34.492104
+  maxlatitude: -21.309147
+  latitude: -23.022192
+  longitude: 32.718136

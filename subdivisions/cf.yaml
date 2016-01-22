@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: MP
+code: HK
 countryalpha2: CF
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 16.457024
-  minlatitude: 3.885441
-  maxlongitude: 19.112883
-  maxlatitude: 5.965332
-  latitude: 5.1188827
-  longitude: 18.427605
+  minlongitude: 21.108126
+  minlatitude: 5.466806
+  maxlongitude: 24.612398
+  maxlatitude: 9.245301
+  latitude: 7.7964377
+  longitude: 23.382355

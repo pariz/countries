@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: C
+code: K
 countryalpha2: LS
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 28.034342
-  minlatitude: -28.888947
-  maxlongitude: 28.08805
-  maxlatitude: -28.844824
-  latitude: -28.873362
-  longitude: 28.041582
+  minlongitude: 28.105192
+  minlatitude: -29.895483
+  maxlongitude: 29.32513
+  maxlatitude: -29.113617
+  latitude: -29.515753
+  longitude: 28.590189

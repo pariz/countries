@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "43"
+code: "26"
 countryalpha2: UA
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 32.479275
-  minlatitude: 44.38644
-  maxlongitude: 36.64674
-  maxlatitude: 46.22916
-  latitude: 44.952118
-  longitude: 34.102417
+  minlongitude: 23.545547
+  minlatitude: 47.724266
+  maxlongitude: 25.65299
+  maxlatitude: 49.559586
+  latitude: 48.922634
+  longitude: 24.711117

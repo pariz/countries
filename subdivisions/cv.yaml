@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: TA
+code: SV
 countryalpha2: CV
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -23.759007
-  minlatitude: 15.268553
-  maxlongitude: -23.73843
-  maxlatitude: 15.283593
-  latitude: 15.278
-  longitude: -23.752
+  minlongitude: -25.085564
+  minlatitude: 16.606955
+  maxlongitude: -24.57421
+  maxlatitude: 16.922201
+  latitude: 16.834127
+  longitude: -24.927956

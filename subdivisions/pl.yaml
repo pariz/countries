@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: SK
+code: WN
 countryalpha2: PL
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 19.704401
-  minlatitude: 50.18554
-  maxlongitude: 21.870306
-  maxlatitude: 51.342155
-  latitude: 50.626102
-  longitude: 20.940628
+  minlongitude: 19.128515
+  minlatitude: 53.139996
+  maxlongitude: 22.805872
+  maxlatitude: 54.45331
+  latitude: 53.86711
+  longitude: 20.702785

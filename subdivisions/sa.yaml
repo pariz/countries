@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "05"
+code: "08"
 countryalpha2: SA
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 41.406906
-  minlatitude: 24.616882
-  maxlongitude: 44.8272
-  maxlatitude: 27.331167
-  latitude: 25.827488
-  longitude: 42.86379
+  minlongitude: 37.858414
+  minlatitude: 27.459833
+  maxlongitude: 45.92311
+  maxlatitude: 32.158333
+  latitude: 29.724867
+  longitude: 42.236244

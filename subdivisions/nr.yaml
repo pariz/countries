@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "08"
+code: "07"
 countryalpha2: NR
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 166.91083
-  minlatitude: -0.5291599
-  maxlongitude: 166.9251
-  maxlatitude: -0.5191129
-  latitude: -0.5247964
-  longitude: 166.91676
+  minlongitude: 166.91614
+  minlatitude: -0.542245
+  maxlongitude: 166.93652
+  maxlatitude: -0.5264839
+  latitude: -0.5328777
+  longitude: 166.92685

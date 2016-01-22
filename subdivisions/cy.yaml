@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "04"
+code: "05"
 countryalpha2: CY
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 33.884712
-  minlatitude: 35.078056
-  maxlongitude: 33.982986
-  maxlatitude: 35.16082
-  latitude: 35.11491
-  longitude: 33.919247
+  minlongitude: 32.39996
+  minlatitude: 34.744213
+  maxlongitude: 32.466602
+  maxlatitude: 34.801178
+  latitude: 34.772015
+  longitude: 32.429737

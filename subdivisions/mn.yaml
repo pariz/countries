@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "046"
+code: "067"
 countryalpha2: MN
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 90.0001
-  minlatitude: 48.437096
-  maxlongitude: 95.72761
-  maxlatitude: 50.894646
-  latitude: 49.64497
-  longitude: 93.27366
+  minlongitude: 103.4531
+  minlatitude: 48.77469
+  maxlongitude: 103.58752
+  maxlatitude: 48.86641
+  latitude: 48.811943
+  longitude: 103.53361

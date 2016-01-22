@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "92"
+code: "31"
 countryalpha2: CN
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 4.3130355
-  minlatitude: 52.07663
-  maxlongitude: 4.3130684
-  maxlatitude: 52.07664
-  latitude: 52.076633
-  longitude: 4.313052
+  minlongitude: 120.858215
+  minlatitude: 30.68027
+  maxlongitude: 122.24706
+  maxlatitude: 31.868217
+  latitude: 31.230415
+  longitude: 121.4737

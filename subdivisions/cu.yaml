@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "02"
+code: "06"
 countryalpha2: CU
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 0
-  minlatitude: 0
-  maxlongitude: 0
-  maxlatitude: 0
-  latitude: 23.139593
-  longitude: -82.359535
+  minlongitude: -80.93571
+  minlatitude: 21.817026
+  maxlongitude: -80.01659
+  maxlatitude: 22.583227
+  latitude: 22.237978
+  longitude: -80.36587

@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "06"
+code: "05"
 countryalpha2: JP
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 140.17934
-  minlatitude: 38.14357
-  maxlongitude: 140.53072
-  maxlatitude: 38.352116
-  latitude: 38.25544
-  longitude: 140.3396
+  minlongitude: 140.02057
+  minlatitude: 39.448746
+  maxlongitude: 140.51543
+  maxlatitude: 39.865276
+  latitude: 39.72001
+  longitude: 140.10257

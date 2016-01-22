@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: BZV
+code: "11"
 countryalpha2: CG
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 15.1371
-  minlatitude: -4.3710427
-  maxlongitude: 15.317345
-  maxlatitude: -4.1233473
-  latitude: -4.267778
-  longitude: 15.291944
+  minlongitude: 12.601334
+  minlatitude: -4.78104
+  maxlongitude: 14.383406
+  maxlatitude: -3.45881
+  latitude: -4.1128078
+  longitude: 13.728917

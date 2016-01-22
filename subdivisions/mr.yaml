@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: "12"
+code: "11"
 countryalpha2: MR
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: -16.472452
-  minlatitude: 18.920576
-  maxlongitude: -14.148675
-  maxlatitude: 21.343054
-  latitude: 20.028055
-  longitude: -15.406808
+  minlongitude: -13.139648
+  minlatitude: 21.151442
+  maxlongitude: -4.827674
+  maxlatitude: 27.298073
+  latitude: 24.577377
+  longitude: -9.9018135

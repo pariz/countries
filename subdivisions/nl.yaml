@@ -1,13 +1,13 @@
 name: ""
 names: []
-code: ZH
+code: NH
 countryalpha2: NL
 coordinates:
   longitudestring: ""
   latitudestring: ""
-  minlongitude: 3.8393204
-  minlatitude: 51.656067
-  maxlongitude: 5.1492624
-  maxlatitude: 52.328274
-  latitude: 52.020798
-  longitude: 4.4937835
+  minlongitude: 4.4937415
+  minlatitude: 52.16577
+  maxlongitude: 5.32828
+  maxlatitude: 53.18333
+  latitude: 52.520588
+  longitude: 4.788474
