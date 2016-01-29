@@ -7,7 +7,7 @@ name:
       official: Република Србија
 eumember: false
 landlocked: true
-nationality: Serbian
+nationality: ""
 tlds:
 - .rs
 - .срб

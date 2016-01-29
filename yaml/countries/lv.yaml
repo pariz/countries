@@ -7,7 +7,7 @@ name:
       official: Latvijas Republikas
 eumember: true
 landlocked: false
-nationality: Latvian
+nationality: ""
 tlds:
 - .lv
 languages:

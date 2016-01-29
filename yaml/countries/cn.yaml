@@ -7,7 +7,7 @@ name:
       official: 中华人民共和国
 eumember: false
 landlocked: false
-nationality: Chinese
+nationality: ""
 tlds:
 - .cn
 - .中国

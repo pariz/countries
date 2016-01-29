@@ -1,3 +1,45 @@
+- name: North-Eastern
+  names:
+  - North-Eastern
+  code: "500"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: -0.0190061
+    longitude: 37.648083
+- name: Nyanza
+  names:
+  - Nyanza
+  code: "600"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: -1.2849963
+    longitude: 36.82723
+- name: Rift Valley
+  names:
+  - Rift Valley
+  code: "700"
+  countryalpha2: KE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: -0.2830282
+    longitude: 36.075024
 - name: Western
   names:
   - Western
@@ -68,45 +110,3 @@
     maxlatitude: 2.421396
     latitude: 1.2692186
     longitude: 33.438354
-- name: North-Eastern
-  names:
-  - North-Eastern
-  code: "500"
-  countryalpha2: KE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: -0.0190061
-    longitude: 37.648083
-- name: Nyanza
-  names:
-  - Nyanza
-  code: "600"
-  countryalpha2: KE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: -1.2849963
-    longitude: 36.82723
-- name: Rift Valley
-  names:
-  - Rift Valley
-  code: "700"
-  countryalpha2: KE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: -0.2830282
-    longitude: 36.075024

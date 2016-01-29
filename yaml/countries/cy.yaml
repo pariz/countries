@@ -10,7 +10,7 @@ name:
       official: Kıbrıs Cumhuriyeti
 eumember: true
 landlocked: false
-nationality: Cypriot
+nationality: ""
 tlds:
 - .cy
 languages:

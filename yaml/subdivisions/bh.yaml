@@ -1,36 +1,3 @@
-- name: Al Janubiyah
-  names:
-  - Eastern
-  - Hawa
-  - Juzur H̨awār
-  - Southern
-  - ash Sharqiyah
-  - aš-Šarqīyah
-  code: "14"
-  countryalpha2: BH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 50.454597
-    minlatitude: 25.57984
-    maxlongitude: 50.82231
-    maxlatitude: 26.138159
-    latitude: 25.938103
-    longitude: 50.575687
-- name: Al Muharraq
-  names:
-  - Al Muharraq
-  code: "15"
-  countryalpha2: BH
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 26.266941
-    longitude: 50.63839
 - name: Al Wustá
   names:
   - Central
@@ -80,3 +47,36 @@
     maxlatitude: 26.247324
     latitude: 26.228516
     longitude: 50.58605
+- name: Al Janubiyah
+  names:
+  - Eastern
+  - Hawa
+  - Juzur H̨awār
+  - Southern
+  - ash Sharqiyah
+  - aš-Šarqīyah
+  code: "14"
+  countryalpha2: BH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 50.454597
+    minlatitude: 25.57984
+    maxlongitude: 50.82231
+    maxlatitude: 26.138159
+    latitude: 25.938103
+    longitude: 50.575687
+- name: Al Muharraq
+  names:
+  - Al Muharraq
+  code: "15"
+  countryalpha2: BH
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 26.266941
+    longitude: 50.63839

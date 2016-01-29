@@ -7,7 +7,7 @@ name:
       official: Монгол улс
 eumember: false
 landlocked: true
-nationality: Mongolian
+nationality: ""
 tlds:
 - .mn
 languages:

@@ -1,31 +1,3 @@
-- name: Kara
-  names:
-  - Kara
-  code: K
-  countryalpha2: TG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 1.1657524
-    minlatitude: 9.53431
-    maxlongitude: 1.2201691
-    maxlatitude: 9.566135
-    latitude: 9.548889
-    longitude: 1.190556
-- name: Maritime (Région)
-  names:
-  - Maritime (Région)
-  code: M
-  countryalpha2: TG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0.717368
-    minlatitude: 6.1091533
-    maxlongitude: 1.806693
-    maxlatitude: 6.918175
-    latitude: 6.49135
-    longitude: 1.2891036
 - name: Plateaux
   names:
   - Plateaux
@@ -68,3 +40,31 @@
     maxlatitude: 9.296292
     latitude: 8.658603
     longitude: 1.0586135
+- name: Kara
+  names:
+  - Kara
+  code: K
+  countryalpha2: TG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 1.1657524
+    minlatitude: 9.53431
+    maxlongitude: 1.2201691
+    maxlatitude: 9.566135
+    latitude: 9.548889
+    longitude: 1.190556
+- name: Maritime (Région)
+  names:
+  - Maritime (Région)
+  code: M
+  countryalpha2: TG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.717368
+    minlatitude: 6.1091533
+    maxlongitude: 1.806693
+    maxlatitude: 6.918175
+    latitude: 6.49135
+    longitude: 1.2891036

@@ -26,34 +26,20 @@
     maxlatitude: -17.132797
     latitude: -19.0552
     longitude: 29.60355
-- name: Matabeleland South
+- name: Matabeleland North
   names:
-  - Matabeleland South
-  code: MS
+  - Matabeleland North
+  code: MN
   countryalpha2: ZW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 26.698244
-    minlatitude: -22.351074
-    maxlongitude: 31.114895
-    maxlatitude: -19.48262
-    latitude: -21.052338
-    longitude: 29.045992
-- name: Mashonaland West
-  names:
-  - Mashonaland West
-  code: MW
-  countryalpha2: ZW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 28.026283
-    minlatitude: -18.902802
-    maxlongitude: 30.993065
-    maxlatitude: -15.608834
-    latitude: -17.485104
-    longitude: 29.788925
+    minlongitude: 25.237028
+    minlatitude: -20.343325
+    maxlongitude: 29.229252
+    maxlatitude: -17.020487
+    latitude: -18.533157
+    longitude: 27.549585
 - name: Masvingo
   names:
   - Masvingo
@@ -124,17 +110,31 @@
     maxlatitude: -16.69894
     latitude: -18.587164
     longitude: 31.262636
-- name: Matabeleland North
+- name: Matabeleland South
   names:
-  - Matabeleland North
-  code: MN
+  - Matabeleland South
+  code: MS
   countryalpha2: ZW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 25.237028
-    minlatitude: -20.343325
-    maxlongitude: 29.229252
-    maxlatitude: -17.020487
-    latitude: -18.533157
-    longitude: 27.549585
+    minlongitude: 26.698244
+    minlatitude: -22.351074
+    maxlongitude: 31.114895
+    maxlatitude: -19.48262
+    latitude: -21.052338
+    longitude: 29.045992
+- name: Mashonaland West
+  names:
+  - Mashonaland West
+  code: MW
+  countryalpha2: ZW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 28.026283
+    minlatitude: -18.902802
+    maxlongitude: 30.993065
+    maxlatitude: -15.608834
+    latitude: -17.485104
+    longitude: 29.788925

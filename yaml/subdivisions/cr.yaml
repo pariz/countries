@@ -1,3 +1,45 @@
+- name: Cartago
+  names:
+  - Cartago
+  code: C
+  countryalpha2: CR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -84.071106
+    minlatitude: 9.505219
+    maxlongitude: -83.30181
+    maxlatitude: 10.142997
+    latitude: 9.75396
+    longitude: -83.67739
+- name: Guanacaste
+  names:
+  - Guanacaste
+  code: G
+  countryalpha2: CR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -85.94608
+    minlatitude: 9.723861
+    maxlongitude: -84.76064
+    maxlatitude: 11.216818
+    latitude: 10.495797
+    longitude: -85.354965
+- name: Heredia
+  names:
+  - Heredia
+  code: H
+  countryalpha2: CR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -84.19047
+    minlatitude: 9.951319
+    maxlongitude: -83.714806
+    maxlatitude: 10.789644
+    latitude: 10.473523
+    longitude: -84.01674
 - name: Limón
   names:
   - Limón
@@ -54,45 +96,3 @@
     maxlatitude: 11.079316
     latitude: 10.391583
     longitude: -84.43827
-- name: Cartago
-  names:
-  - Cartago
-  code: C
-  countryalpha2: CR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -84.071106
-    minlatitude: 9.505219
-    maxlongitude: -83.30181
-    maxlatitude: 10.142997
-    latitude: 9.75396
-    longitude: -83.67739
-- name: Guanacaste
-  names:
-  - Guanacaste
-  code: G
-  countryalpha2: CR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -85.94608
-    minlatitude: 9.723861
-    maxlongitude: -84.76064
-    maxlatitude: 11.216818
-    latitude: 10.495797
-    longitude: -85.354965
-- name: Heredia
-  names:
-  - Heredia
-  code: H
-  countryalpha2: CR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -84.19047
-    minlatitude: 9.951319
-    maxlongitude: -83.714806
-    maxlatitude: 10.789644
-    latitude: 10.473523
-    longitude: -84.01674

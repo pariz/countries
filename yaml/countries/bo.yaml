@@ -16,7 +16,7 @@ name:
       official: Estado Plurinacional de Bolivia
 eumember: false
 landlocked: true
-nationality: Bolivian
+nationality: ""
 tlds:
 - .bo
 languages:

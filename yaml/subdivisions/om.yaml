@@ -1,3 +1,19 @@
+- name: Dhofar
+  names:
+  - Dhofar
+  - Dhufar
+  - Janubiyah
+  code: JA
+  countryalpha2: OM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 52.0007
+    minlatitude: 16.645761
+    maxlongitude: 56.3556
+    maxlatitude: 20.001837
+    latitude: 18.397036
+    longitude: 54.434216
 - name: Masqat
   names:
   - Masqaţ
@@ -14,34 +30,34 @@
     maxlatitude: 23.645569
     latitude: 23.61
     longitude: 58.54
-- name: Al Buraymi
+- name: Musandam
   names:
-  - Al Buraymi
-  code: X1~
+  - Musandam
+  code: MU
   countryalpha2: OM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 55.75347
-    minlatitude: 24.224815
-    maxlongitude: 55.889854
-    maxlatitude: 24.326763
-    latitude: 24.25
-    longitude: 55.7999
-- name: Adh Dhahirah
+    minlongitude: 56.09789
+    minlatitude: 25.24196
+    maxlongitude: 56.537693
+    maxlatitude: 26.385954
+    latitude: 25.994265
+    longitude: 56.248226
+- name: Al Wustá
   names:
-  - Adh Dhahirah
-  code: ZA
+  - Al Wustá
+  code: WU
   countryalpha2: OM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 55.20692
-    minlatitude: 21.273594
-    maxlongitude: 57.116875
-    maxlatitude: 24.019926
-    latitude: 22.559027
-    longitude: 56.024998
+    minlongitude: 55
+    minlatitude: 17.945673
+    maxlongitude: 58.322742
+    maxlatitude: 21.420908
+    latitude: 20.173866
+    longitude: 56.561646
 - name: Al Batinah
   names:
   - Al Batinah
@@ -70,36 +86,6 @@
     maxlatitude: 23.563232
     latitude: 22.347633
     longitude: 57.281864
-- name: Dhofar
-  names:
-  - Dhofar
-  - Dhufar
-  - Janubiyah
-  code: JA
-  countryalpha2: OM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 52.0007
-    minlatitude: 16.645761
-    maxlongitude: 56.3556
-    maxlatitude: 20.001837
-    latitude: 18.397036
-    longitude: 54.434216
-- name: Musandam
-  names:
-  - Musandam
-  code: MU
-  countryalpha2: OM
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 56.09789
-    minlatitude: 25.24196
-    maxlongitude: 56.537693
-    maxlatitude: 26.385954
-    latitude: 25.994265
-    longitude: 56.248226
 - name: Ash Sharqiyah
   names:
   - Ash Sharqiyah
@@ -114,17 +100,31 @@
     maxlatitude: 23.340828
     latitude: 22.118692
     longitude: 58.554382
-- name: Al Wustá
+- name: Al Buraymi
   names:
-  - Al Wustá
-  code: WU
+  - Al Buraymi
+  code: X1~
   countryalpha2: OM
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 55
-    minlatitude: 17.945673
-    maxlongitude: 58.322742
-    maxlatitude: 21.420908
-    latitude: 20.173866
-    longitude: 56.561646
+    minlongitude: 55.75347
+    minlatitude: 24.224815
+    maxlongitude: 55.889854
+    maxlatitude: 24.326763
+    latitude: 24.25
+    longitude: 55.7999
+- name: Adh Dhahirah
+  names:
+  - Adh Dhahirah
+  code: ZA
+  countryalpha2: OM
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.20692
+    minlatitude: 21.273594
+    maxlongitude: 57.116875
+    maxlatitude: 24.019926
+    latitude: 22.559027
+    longitude: 56.024998

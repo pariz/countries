@@ -1,3 +1,87 @@
+- name: Matam
+  names:
+  - Matam
+  code: MT
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.263674
+    minlatitude: 15.639072
+    maxlongitude: -13.24625
+    maxlatitude: 15.669032
+    latitude: 15.660023
+    longitude: -13.25769
+- name: Tambacounda
+  names:
+  - Tambacounda
+  code: TC
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -13.70303
+    minlatitude: 13.7446375
+    maxlongitude: -13.635235
+    maxlatitude: 13.797156
+    latitude: 13.768889
+    longitude: -13.667222
+- name: Thiès
+  names:
+  - Thiès
+  code: TH
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.982822
+    minlatitude: 14.735142
+    maxlongitude: -16.871717
+    maxlatitude: 14.849721
+    latitude: 14.766667
+    longitude: -16.9
+- name: Ziguinchor
+  names:
+  - Ziguinchor
+  code: ZG
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.306328
+    minlatitude: 12.529786
+    maxlongitude: -16.24204
+    maxlatitude: 12.589516
+    latitude: 12.583333
+    longitude: -16.266666
+- name: Louga
+  names:
+  - Louga
+  code: LG
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.273842
+    minlatitude: 15.576081
+    maxlongitude: -16.167755
+    maxlatitude: 15.658412
+    latitude: 15.616667
+    longitude: -16.216667
+- name: Saint-Louis
+  names:
+  - Saint-Louis
+  code: SL
+  countryalpha2: SN
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -16.513557
+    minlatitude: 15.963813
+    maxlongitude: -16.403042
+    maxlatitude: 16.0761
+    latitude: 16.03263
+    longitude: -16.481817
 - name: Diourbel
   names:
   - Diourbel
@@ -40,48 +124,6 @@
     maxlatitude: 14.352126
     latitude: 14.333333
     longitude: -16.406944
-- name: Ziguinchor
-  names:
-  - Ziguinchor
-  code: ZG
-  countryalpha2: SN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -16.306328
-    minlatitude: 12.529786
-    maxlongitude: -16.24204
-    maxlatitude: 12.589516
-    latitude: 12.583333
-    longitude: -16.266666
-- name: Tambacounda
-  names:
-  - Tambacounda
-  code: TC
-  countryalpha2: SN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -13.70303
-    minlatitude: 13.7446375
-    maxlongitude: -13.635235
-    maxlatitude: 13.797156
-    latitude: 13.768889
-    longitude: -13.667222
-- name: Thiès
-  names:
-  - Thiès
-  code: TH
-  countryalpha2: SN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -16.982822
-    minlatitude: 14.735142
-    maxlongitude: -16.871717
-    maxlatitude: 14.849721
-    latitude: 14.766667
-    longitude: -16.9
 - name: Kolda
   names:
   - Kolda
@@ -110,45 +152,3 @@
     maxlatitude: 14.192667
     latitude: 14.165208
     longitude: -16.075775
-- name: Louga
-  names:
-  - Louga
-  code: LG
-  countryalpha2: SN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -16.273842
-    minlatitude: 15.576081
-    maxlongitude: -16.167755
-    maxlatitude: 15.658412
-    latitude: 15.616667
-    longitude: -16.216667
-- name: Matam
-  names:
-  - Matam
-  code: MT
-  countryalpha2: SN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -13.263674
-    minlatitude: 15.639072
-    maxlongitude: -13.24625
-    maxlatitude: 15.669032
-    latitude: 15.660023
-    longitude: -13.25769
-- name: Saint-Louis
-  names:
-  - Saint-Louis
-  code: SL
-  countryalpha2: SN
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -16.513557
-    minlatitude: 15.963813
-    maxlongitude: -16.403042
-    maxlatitude: 16.0761
-    latitude: 16.03263
-    longitude: -16.481817

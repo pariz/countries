@@ -1,3 +1,45 @@
+- name: Tillabéri
+  names:
+  - Tillaberi
+  code: "6"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0.16625
+    minlatitude: 11.901612
+    maxlongitude: 4.254565
+    maxlatitude: 15.70445
+    latitude: 14.6489525
+    longitude: 2.1450245
+- name: Zinder
+  names:
+  - Zinder
+  code: "7"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 8.960231
+    minlatitude: 13.775256
+    maxlongitude: 9.0148115
+    maxlatitude: 13.834538
+    latitude: 13.805278
+    longitude: 8.988333
+- name: Niamey
+  names:
+  - Niamey
+  code: "8"
+  countryalpha2: NE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 2.0319588
+    minlatitude: 13.446198
+    maxlongitude: 2.2061067
+    maxlatitude: 13.579339
+    latitude: 13.521389
+    longitude: 2.105278
 - name: Agadez
   names:
   - Agadez
@@ -68,45 +110,3 @@
     maxlatitude: 14.9285555
     latitude: 14.883333
     longitude: 5.266667
-- name: Tillabéri
-  names:
-  - Tillaberi
-  code: "6"
-  countryalpha2: NE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0.16625
-    minlatitude: 11.901612
-    maxlongitude: 4.254565
-    maxlatitude: 15.70445
-    latitude: 14.6489525
-    longitude: 2.1450245
-- name: Zinder
-  names:
-  - Zinder
-  code: "7"
-  countryalpha2: NE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 8.960231
-    minlatitude: 13.775256
-    maxlongitude: 9.0148115
-    maxlatitude: 13.834538
-    latitude: 13.805278
-    longitude: 8.988333
-- name: Niamey
-  names:
-  - Niamey
-  code: "8"
-  countryalpha2: NE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 2.0319588
-    minlatitude: 13.446198
-    maxlongitude: 2.2061067
-    maxlatitude: 13.579339
-    latitude: 13.521389
-    longitude: 2.105278

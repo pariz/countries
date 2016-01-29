@@ -19,7 +19,7 @@ name:
       official: Reino de España
 eumember: true
 landlocked: false
-nationality: Spanish
+nationality: ""
 tlds:
 - .es
 languages:

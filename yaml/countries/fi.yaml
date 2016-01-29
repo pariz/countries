@@ -10,7 +10,7 @@ name:
       official: Republiken Finland
 eumember: true
 landlocked: false
-nationality: Finnish
+nationality: ""
 tlds:
 - .fi
 languages:

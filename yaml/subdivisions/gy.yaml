@@ -12,20 +12,6 @@
     maxlatitude: 7.233457
     latitude: 6.4642143
     longitude: -60.211075
-- name: Potaro-Siparuni
-  names:
-  - Potaro-Siparuni
-  code: PT
-  countryalpha2: GY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -60.16332
-    minlatitude: 3.989301
-    maxlongitude: -58.272823
-    maxlatitude: 5.733892
-    latitude: 4.7855854
-    longitude: -59.288
 - name: East Berbice-Corentyne
   names:
   - East Berbice-Corentyne
@@ -40,20 +26,6 @@
     maxlatitude: 6.325151
     latitude: 2.7477922
     longitude: -57.462727
-- name: Essequibo Islands-West Demerara
-  names:
-  - Essequibo Islands-West Demerara
-  code: ES
-  countryalpha2: GY
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -58.835068
-    minlatitude: 6.114976
-    maxlongitude: -58.165615
-    maxlatitude: 7.0862865
-    latitude: 6.5720134
-    longitude: -58.463
 - name: Mahaica-Berbice
   names:
   - Mahaica-Berbice
@@ -68,20 +40,20 @@
     maxlatitude: 6.701213
     latitude: 6.238496
     longitude: -57.916256
-- name: Pomeroon-Supenaam
+- name: Potaro-Siparuni
   names:
-  - Pomeroon-Supenaam
-  code: PM
+  - Potaro-Siparuni
+  code: PT
   countryalpha2: GY
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -59.17711
-    minlatitude: 6.760108
-    maxlongitude: -58.473015
-    maxlatitude: 7.68286
-    latitude: 7.1294165
-    longitude: -58.920628
+    minlongitude: -60.16332
+    minlatitude: 3.989301
+    maxlongitude: -58.272823
+    maxlatitude: 5.733892
+    latitude: 4.7855854
+    longitude: -59.288
 - name: Upper Demerara-Berbice
   names:
   - Upper Demerara-Berbice
@@ -138,3 +110,31 @@
     maxlatitude: 6.8263984
     latitude: 6.546426
     longitude: -58.098206
+- name: Essequibo Islands-West Demerara
+  names:
+  - Essequibo Islands-West Demerara
+  code: ES
+  countryalpha2: GY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -58.835068
+    minlatitude: 6.114976
+    maxlongitude: -58.165615
+    maxlatitude: 7.0862865
+    latitude: 6.5720134
+    longitude: -58.463
+- name: Pomeroon-Supenaam
+  names:
+  - Pomeroon-Supenaam
+  code: PM
+  countryalpha2: GY
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -59.17711
+    minlatitude: 6.760108
+    maxlongitude: -58.473015
+    maxlatitude: 7.68286
+    latitude: 7.1294165
+    longitude: -58.920628

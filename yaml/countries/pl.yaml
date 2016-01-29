@@ -7,7 +7,7 @@ name:
       official: Rzeczpospolita Polska
 eumember: true
 landlocked: false
-nationality: Polish
+nationality: ""
 tlds:
 - .pl
 languages:

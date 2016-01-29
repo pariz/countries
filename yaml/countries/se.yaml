@@ -7,7 +7,7 @@ name:
       official: Konungariket Sverige
 eumember: true
 landlocked: false
-nationality: Swedish
+nationality: ""
 tlds:
 - .se
 languages:

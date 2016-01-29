@@ -1,17 +1,3 @@
-- name: Vava'u
-  names:
-  - Vava'u
-  code: "05"
-  countryalpha2: TO
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -174.86719
-    minlatitude: -19.180176
-    maxlongitude: -173.90758
-    maxlatitude: -18.00829
-    latitude: -18.581196
-    longitude: -173.985
 - name: '''Eua'
   names:
   - Middleburg Island
@@ -69,3 +55,17 @@
     maxlatitude: -21.061676
     latitude: -21.146597
     longitude: -175.25154
+- name: Vava'u
+  names:
+  - Vava'u
+  code: "05"
+  countryalpha2: TO
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -174.86719
+    minlatitude: -19.180176
+    maxlongitude: -173.90758
+    maxlatitude: -18.00829
+    latitude: -18.581196
+    longitude: -173.985

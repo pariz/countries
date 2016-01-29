@@ -1,59 +1,3 @@
-- name: ?Asir
-  names:
-  - Aseer
-  code: "14"
-  countryalpha2: SA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 41.38029
-    minlatitude: 17.422384
-    maxlongitude: 44.528442
-    maxlatitude: 20.970846
-    latitude: 19.096907
-    longitude: 42.86379
-- name: Makkah
-  names:
-  - La Meca
-  code: "02"
-  countryalpha2: SA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 39.690235
-    minlatitude: 21.279028
-    maxlongitude: 40.002857
-    maxlatitude: 21.593002
-    latitude: 21.416668
-    longitude: 39.816666
-- name: ?a'il
-  names:
-  - Hail
-  code: "06"
-  countryalpha2: SA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 41.506176
-    minlatitude: 27.353016
-    maxlongitude: 41.84349
-    maxlatitude: 27.698729
-    latitude: 27.516666
-    longitude: 41.683334
-- name: Al Ba?ah
-  names:
-  - Baha
-  code: "11"
-  countryalpha2: SA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 39.213158
-    minlatitude: 21.455008
-    maxlongitude: 39.213547
-    maxlatitude: 21.456194
-    latitude: 21.45569
-    longitude: 39.213387
 - name: Al Qasim
   names:
   - Qaseem
@@ -97,34 +41,34 @@
     maxlatitude: 32.158333
     latitude: 29.724867
     longitude: 42.236244
-- name: Jizan
+- name: Al Ba?ah
   names:
-  - Jizan
-  code: "09"
+  - Baha
+  code: "11"
   countryalpha2: SA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 42.52958
-    minlatitude: 16.81818
-    maxlongitude: 42.647896
-    maxlatitude: 16.989815
-    latitude: 16.889168
-    longitude: 42.56111
-- name: Najran
+    minlongitude: 39.213158
+    minlatitude: 21.455008
+    maxlongitude: 39.213547
+    maxlatitude: 21.456194
+    latitude: 21.45569
+    longitude: 39.213387
+- name: Al Jawf
   names:
-  - Najran
-  code: "10"
+  - Al Jawf
+  code: "12"
   countryalpha2: SA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 44.09308
-    minlatitude: 17.474659
-    maxlongitude: 44.29333
-    maxlatitude: 17.600412
-    latitude: 17.491667
-    longitude: 44.13222
+    minlongitude: 34.82459
+    minlatitude: 28.131313
+    maxlongitude: 41.913815
+    maxlatitude: 31.738976
+    latitude: 29.887356
+    longitude: 39.320625
 - name: Ar Riya?
   names:
   - ar-Riyad
@@ -143,6 +87,20 @@
     maxlatitude: 25.156473
     latitude: 24.633333
     longitude: 46.716667
+- name: Makkah
+  names:
+  - La Meca
+  code: "02"
+  countryalpha2: SA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 39.690235
+    minlatitude: 21.279028
+    maxlongitude: 40.002857
+    maxlatitude: 21.593002
+    latitude: 21.416668
+    longitude: 39.816666
 - name: Al Madinah
   names:
   - Medina
@@ -174,17 +132,59 @@
     maxlatitude: 29.118843
     latitude: 22.29545
     longitude: 50.679375
-- name: Al Jawf
+- name: ?a'il
   names:
-  - Al Jawf
-  code: "12"
+  - Hail
+  code: "06"
   countryalpha2: SA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 34.82459
-    minlatitude: 28.131313
-    maxlongitude: 41.913815
-    maxlatitude: 31.738976
-    latitude: 29.887356
-    longitude: 39.320625
+    minlongitude: 41.506176
+    minlatitude: 27.353016
+    maxlongitude: 41.84349
+    maxlatitude: 27.698729
+    latitude: 27.516666
+    longitude: 41.683334
+- name: Jizan
+  names:
+  - Jizan
+  code: "09"
+  countryalpha2: SA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.52958
+    minlatitude: 16.81818
+    maxlongitude: 42.647896
+    maxlatitude: 16.989815
+    latitude: 16.889168
+    longitude: 42.56111
+- name: Najran
+  names:
+  - Najran
+  code: "10"
+  countryalpha2: SA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 44.09308
+    minlatitude: 17.474659
+    maxlongitude: 44.29333
+    maxlatitude: 17.600412
+    latitude: 17.491667
+    longitude: 44.13222
+- name: ?Asir
+  names:
+  - Aseer
+  code: "14"
+  countryalpha2: SA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 41.38029
+    minlatitude: 17.422384
+    maxlongitude: 44.528442
+    maxlatitude: 20.970846
+    latitude: 19.096907
+    longitude: 42.86379

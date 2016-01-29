@@ -1,45 +1,3 @@
-- name: Boaco
-  names:
-  - Boaco
-  code: BO
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -85.9631
-    minlatitude: 12.023197
-    maxlongitude: -84.95344
-    maxlatitude: 12.790205
-    latitude: 12.492724
-    longitude: -85.52003
-- name: Chinandega
-  names:
-  - Chinandega
-  code: CI
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -87.69031
-    minlatitude: 12.44511
-    maxlongitude: -86.62994
-    maxlatitude: 13.306297
-    latitude: 12.882007
-    longitude: -87.14229
-- name: Granada
-  names:
-  - Granada
-  code: GR
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -85.97849
-    minlatitude: 11.9084215
-    maxlongitude: -85.94111
-    maxlatitude: 11.949277
-    latitude: 11.933333
-    longitude: -85.95
 - name: León
   names:
   - León
@@ -54,20 +12,76 @@
     maxlatitude: 13.107796
     latitude: 12.509204
     longitude: -86.66111
-- name: Masaya
+- name: Río San Juan
   names:
-  - Masaya
-  code: MS
+  - Río San Juan
+  code: SJ
   countryalpha2: NI
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -86.11333
-    minlatitude: 11.952426
-    maxlongitude: -86.07212
-    maxlatitude: 11.997598
-    latitude: 11.966667
-    longitude: -86.1
+    minlongitude: -83.69882
+    minlatitude: 10.924511
+    maxlongitude: -83.68437
+    maxlatitude: 10.9404335
+    latitude: 10.932472
+    longitude: -83.6916
+- name: Chontales
+  names:
+  - Chontales
+  code: CO
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -85.64551
+    minlatitude: 11.628046
+    maxlongitude: -84.567696
+    maxlatitude: 12.632429
+    latitude: 11.939471
+    longitude: -85.18941
+- name: Chinandega
+  names:
+  - Chinandega
+  code: CI
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -87.69031
+    minlatitude: 12.44511
+    maxlongitude: -86.62994
+    maxlatitude: 13.306297
+    latitude: 12.882007
+    longitude: -87.14229
+- name: Estelí
+  names:
+  - Estelí
+  code: ES
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -86.383095
+    minlatitude: 13.061686
+    maxlongitude: -86.33846
+    maxlatitude: 13.117765
+    latitude: 13.083333
+    longitude: -86.35
+- name: Matagalpa
+  names:
+  - Matagalpa
+  code: MT
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -85.946556
+    minlatitude: 12.902509
+    maxlongitude: -85.896454
+    maxlatitude: 12.9567175
+    latitude: 12.916667
+    longitude: -85.916664
 - name: Nueva Segovia
   names:
   - Nueva Segovia
@@ -98,20 +112,6 @@
     maxlatitude: 13.277237
     latitude: 12.191851
     longitude: -84.10129
-- name: Rivas
-  names:
-  - Rivas
-  code: RI
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -86.17159
-    minlatitude: 11.041925
-    maxlongitude: -85.175415
-    maxlatitude: 11.671718
-    latitude: 11.402349
-    longitude: -85.68458
 - name: Madriz
   names:
   - Madriz
@@ -126,6 +126,20 @@
     maxlatitude: 13.653297
     latitude: 13.472601
     longitude: -86.459206
+- name: Rivas
+  names:
+  - Rivas
+  code: RI
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -86.17159
+    minlatitude: 11.041925
+    maxlongitude: -85.175415
+    maxlatitude: 11.671718
+    latitude: 11.402349
+    longitude: -85.68458
 - name: Carazo
   names:
   - Carazo
@@ -140,6 +154,34 @@
     maxlatitude: 11.933541
     latitude: 11.727473
     longitude: -86.21585
+- name: Boaco
+  names:
+  - Boaco
+  code: BO
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -85.9631
+    minlatitude: 12.023197
+    maxlongitude: -84.95344
+    maxlatitude: 12.790205
+    latitude: 12.492724
+    longitude: -85.52003
+- name: Granada
+  names:
+  - Granada
+  code: GR
+  countryalpha2: NI
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -85.97849
+    minlatitude: 11.9084215
+    maxlongitude: -85.94111
+    maxlatitude: 11.949277
+    latitude: 11.933333
+    longitude: -85.95
 - name: Jinotega
   names:
   - Jinotega
@@ -168,20 +210,20 @@
     maxlatitude: 12.172447
     latitude: 12.136389
     longitude: -86.25139
-- name: Matagalpa
+- name: Masaya
   names:
-  - Matagalpa
-  code: MT
+  - Masaya
+  code: MS
   countryalpha2: NI
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -85.946556
-    minlatitude: 12.902509
-    maxlongitude: -85.896454
-    maxlatitude: 12.9567175
-    latitude: 12.916667
-    longitude: -85.916664
+    minlongitude: -86.11333
+    minlatitude: 11.952426
+    maxlongitude: -86.07212
+    maxlatitude: 11.997598
+    latitude: 11.966667
+    longitude: -86.1
 - name: Atlántico Norte*
   names:
   - RAAN
@@ -198,45 +240,3 @@
     maxlatitude: 15.025908
     latitude: 13.839446
     longitude: -83.93208
-- name: Estelí
-  names:
-  - Estelí
-  code: ES
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -86.383095
-    minlatitude: 13.061686
-    maxlongitude: -86.33846
-    maxlatitude: 13.117765
-    latitude: 13.083333
-    longitude: -86.35
-- name: Río San Juan
-  names:
-  - Río San Juan
-  code: SJ
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -83.69882
-    minlatitude: 10.924511
-    maxlongitude: -83.68437
-    maxlatitude: 10.9404335
-    latitude: 10.932472
-    longitude: -83.6916
-- name: Chontales
-  names:
-  - Chontales
-  code: CO
-  countryalpha2: NI
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -85.64551
-    minlatitude: 11.628046
-    maxlongitude: -84.567696
-    maxlatitude: 12.632429
-    latitude: 11.939471
-    longitude: -85.18941

@@ -10,7 +10,7 @@ name:
       official: Canada
 eumember: false
 landlocked: false
-nationality: Canadian
+nationality: ""
 tlds:
 - .ca
 languages:

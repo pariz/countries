@@ -1,32 +1,18 @@
-- name: Ar Rayyan
+- name: Al Wakrah
   names:
-  - Rayyan
-  - ar-Rayyan
-  code: RA
+  - Wakra
+  - Wakrah
+  code: WA
   countryalpha2: QA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 50.750053
-    minlatitude: 24.471186
-    maxlongitude: 51.537003
-    maxlatitude: 25.808777
-    latitude: 25.208979
-    longitude: 51.095837
-- name: Umm Salal
-  names:
-  - Umm Shalal
-  code: US
-  countryalpha2: QA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 51.391396
-    minlatitude: 25.371033
-    maxlongitude: 51.466793
-    maxlatitude: 25.438757
-    latitude: 25.398111
-    longitude: 51.425083
+    minlongitude: 51.110825
+    minlatitude: 24.473726
+    maxlongitude: 51.628456
+    maxlatitude: 25.233427
+    latitude: 25.176815
+    longitude: 51.604843
 - name: Umm Sa'id
   names:
   - Mesaieed
@@ -75,20 +61,6 @@
     maxlatitude: 25.851963
     latitude: 25.844793
     longitude: 51.245373
-- name: Jariyan al Batnah
-  names:
-  - Jariyan al Batnah
-  code: JB
-  countryalpha2: QA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 0
-    longitude: 0
 - name: Al Jumayliyah
   names:
   - al-Jumayliyah
@@ -134,18 +106,46 @@
     maxlatitude: 26.123154
     latitude: 26.115608
     longitude: 51.221844
-- name: Al Wakrah
+- name: Ar Rayyan
   names:
-  - Wakra
-  - Wakrah
-  code: WA
+  - Rayyan
+  - ar-Rayyan
+  code: RA
   countryalpha2: QA
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 51.110825
-    minlatitude: 24.473726
-    maxlongitude: 51.628456
-    maxlatitude: 25.233427
-    latitude: 25.176815
-    longitude: 51.604843
+    minlongitude: 50.750053
+    minlatitude: 24.471186
+    maxlongitude: 51.537003
+    maxlatitude: 25.808777
+    latitude: 25.208979
+    longitude: 51.095837
+- name: Jariyan al Batnah
+  names:
+  - Jariyan al Batnah
+  code: JB
+  countryalpha2: QA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 0
+    longitude: 0
+- name: Umm Salal
+  names:
+  - Umm Shalal
+  code: US
+  countryalpha2: QA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 51.391396
+    minlatitude: 25.371033
+    maxlongitude: 51.466793
+    maxlatitude: 25.438757
+    latitude: 25.398111
+    longitude: 51.425083

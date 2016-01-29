@@ -10,7 +10,7 @@ name:
       official: Estado Libre Asociado de Puerto Rico
 eumember: false
 landlocked: false
-nationality: Puerto Rican
+nationality: ""
 tlds:
 - .pr
 languages:

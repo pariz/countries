@@ -7,7 +7,7 @@ name:
       official: Lietuvos Respublikos
 eumember: true
 landlocked: false
-nationality: Lithuanian
+nationality: ""
 tlds:
 - .lt
 languages:

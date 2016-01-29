@@ -7,7 +7,7 @@ name:
       official: Estados Unidos Mexicanos
 eumember: false
 landlocked: false
-nationality: Mexican
+nationality: ""
 tlds:
 - .mx
 languages:

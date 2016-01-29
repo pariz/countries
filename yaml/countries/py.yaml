@@ -10,7 +10,7 @@ name:
       official: República de Paraguay
 eumember: false
 landlocked: true
-nationality: Paraguayan
+nationality: ""
 tlds:
 - .py
 languages:

@@ -7,7 +7,7 @@ name:
       official: Republik Österreich
 eumember: true
 landlocked: true
-nationality: Austrian
+nationality: ""
 tlds:
 - .at
 languages:

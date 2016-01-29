@@ -7,7 +7,7 @@ name:
       official: République française
 eumember: true
 landlocked: false
-nationality: French
+nationality: ""
 tlds:
 - .fr
 languages:

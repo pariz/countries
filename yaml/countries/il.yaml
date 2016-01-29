@@ -10,7 +10,7 @@ name:
       official: מדינת ישראל
 eumember: false
 landlocked: false
-nationality: Israeli
+nationality: ""
 tlds:
 - .il
 languages:

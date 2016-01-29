@@ -7,7 +7,7 @@ name:
       official: Commonwealth of Australia
 eumember: false
 landlocked: false
-nationality: Australian
+nationality: ""
 tlds:
 - .au
 languages:

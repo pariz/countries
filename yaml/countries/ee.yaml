@@ -7,7 +7,7 @@ name:
       official: Eesti Vabariik
 eumember: true
 landlocked: false
-nationality: Estonian
+nationality: ""
 tlds:
 - .ee
 languages:

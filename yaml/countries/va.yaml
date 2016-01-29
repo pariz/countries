@@ -10,7 +10,7 @@ name:
       official: Status Civitatis Vaticanæ
 eumember: false
 landlocked: true
-nationality: Italian
+nationality: ""
 tlds:
 - .va
 languages:

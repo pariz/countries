@@ -1,31 +1,3 @@
-- name: Commewijne
-  names:
-  - Commewijne
-  code: CM
-  countryalpha2: SR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -55.160072
-    minlatitude: 5.4846897
-    maxlongitude: -54.620186
-    maxlatitude: 5.9952574
-    latitude: 5.740211
-    longitude: -54.873123
-- name: Coronie
-  names:
-  - Coronie
-  code: CR
-  countryalpha2: SR
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -56.604008
-    minlatitude: 5.331499
-    maxlongitude: -55.888096
-    maxlatitude: 5.942436
-    latitude: 5.694327
-    longitude: -56.29294
 - name: Paramaribo
   names:
   - Paramaribo
@@ -68,34 +40,34 @@
     maxlatitude: 2.0413084
     latitude: 2.0331028
     longitude: -56.133755
-- name: Brokopondo
+- name: Commewijne
   names:
-  - Brokopondo
-  code: BR
+  - Commewijne
+  code: CM
   countryalpha2: SR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -55.521053
-    minlatitude: 4.016883
-    maxlongitude: -54.726257
-    maxlatitude: 5.364842
-    latitude: 4.7710247
-    longitude: -55.04934
-- name: Marowijne
+    minlongitude: -55.160072
+    minlatitude: 5.4846897
+    maxlongitude: -54.620186
+    maxlatitude: 5.9952574
+    latitude: 5.740211
+    longitude: -54.873123
+- name: Coronie
   names:
-  - Marowijne
-  code: MA
+  - Coronie
+  code: CR
   countryalpha2: SR
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: -54.737736
-    minlatitude: 5.234248
-    maxlongitude: -53.98701
-    maxlatitude: 5.971927
-    latitude: 5.626813
-    longitude: -54.25931
+    minlongitude: -56.604008
+    minlatitude: 5.331499
+    maxlongitude: -55.888096
+    maxlatitude: 5.942436
+    latitude: 5.694327
+    longitude: -56.29294
 - name: Nickerie
   names:
   - Nickerie
@@ -138,3 +110,31 @@
     maxlatitude: 5.938986
     latitude: 5.732376
     longitude: -55.270123
+- name: Brokopondo
+  names:
+  - Brokopondo
+  code: BR
+  countryalpha2: SR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -55.521053
+    minlatitude: 4.016883
+    maxlongitude: -54.726257
+    maxlatitude: 5.364842
+    latitude: 4.7710247
+    longitude: -55.04934
+- name: Marowijne
+  names:
+  - Marowijne
+  code: MA
+  countryalpha2: SR
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -54.737736
+    minlatitude: 5.234248
+    maxlongitude: -53.98701
+    maxlatitude: 5.971927
+    latitude: 5.626813
+    longitude: -54.25931

@@ -7,7 +7,7 @@ name:
       official: Nederland
 eumember: true
 landlocked: false
-nationality: Dutch
+nationality: ""
 tlds:
 - .nl
 languages:

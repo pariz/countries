@@ -7,7 +7,7 @@ name:
       official: República português
 eumember: true
 landlocked: false
-nationality: Portuguese
+nationality: ""
 tlds:
 - .pt
 languages:

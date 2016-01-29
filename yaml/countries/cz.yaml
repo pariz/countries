@@ -10,7 +10,7 @@ name:
       official: Česká republika
 eumember: true
 landlocked: true
-nationality: Czech
+nationality: ""
 tlds:
 - .cz
 languages:

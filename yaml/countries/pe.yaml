@@ -13,7 +13,7 @@ name:
       official: República del Perú
 eumember: false
 landlocked: false
-nationality: Peruvian
+nationality: ""
 tlds:
 - .pe
 languages:

@@ -13,20 +13,20 @@
     maxlatitude: -21.678406
     latitude: -21.698305
     longitude: 21.64872
-- name: South-East
+- name: North-West
   names:
-  - South-East
-  code: SE
+  - North-West
+  code: NW
   countryalpha2: BW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 25.543854
-    minlatitude: -25.470963
-    maxlongitude: 26.181364
-    maxlatitude: -24.511587
-    latitude: -24.93661
-    longitude: 25.804852
+    minlongitude: 20.99695
+    minlatitude: -21.000256
+    maxlongitude: 25.98795
+    maxlatitude: -17.780813
+    latitude: -19.190533
+    longitude: 23.0012
 - name: Southern
   names:
   - Southern
@@ -111,17 +111,17 @@
     maxlatitude: -20.473381
     latitude: -20.903055
     longitude: 27.455639
-- name: North-West
+- name: South-East
   names:
-  - North-West
-  code: NW
+  - South-East
+  code: SE
   countryalpha2: BW
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 20.99695
-    minlatitude: -21.000256
-    maxlongitude: 25.98795
-    maxlatitude: -17.780813
-    latitude: -19.190533
-    longitude: 23.0012
+    minlongitude: 25.543854
+    minlatitude: -25.470963
+    maxlongitude: 26.181364
+    maxlatitude: -24.511587
+    latitude: -24.93661
+    longitude: 25.804852

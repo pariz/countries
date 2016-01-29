@@ -7,7 +7,7 @@ name:
       official: Territoire des Terres australes et antarctiques françaises
 eumember: false
 landlocked: false
-nationality: French
+nationality: ""
 tlds:
 - .tf
 languages:

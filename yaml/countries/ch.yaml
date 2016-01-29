@@ -16,7 +16,7 @@ name:
       official: Confederaziun svizra
 eumember: false
 landlocked: true
-nationality: Swiss
+nationality: ""
 tlds:
 - .ch
 languages:
