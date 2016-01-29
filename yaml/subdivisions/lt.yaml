@@ -1,3 +1,31 @@
+- name: Alytaus Apskritis
+  names:
+  - Alytaus Apskritis
+  code: AL
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 23.312597
+    minlatitude: 53.89748
+    maxlongitude: 25.025223
+    maxlatitude: 54.56347
+    latitude: 54.20002
+    longitude: 24.151264
+- name: Šiauliu Apskritis
+  names:
+  - Shiauliu
+  code: SA
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 22.465702
+    minlatitude: 55.4631
+    maxlongitude: 24.182453
+    maxlatitude: 56.415054
+    latitude: 55.998573
+    longitude: 23.138004
 - name: Telšiu Apskritis
   names:
   - Telshiu
@@ -12,6 +40,34 @@
     maxlatitude: 56.43201
     latitude: 56.10266
     longitude: 22.111391
+- name: Utenos Apskritis
+  names:
+  - Utenos Apskritis
+  code: UT
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.653175
+    minlatitude: 55.030975
+    maxlongitude: 26.835579
+    maxlatitude: 55.94378
+    latitude: 55.5319
+    longitude: 25.79047
+- name: Vilniaus Apskritis
+  names:
+  - Vilniaus Apskritis
+  code: VL
+  countryalpha2: LT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 24.386375
+    minlatitude: 54.12766
+    maxlongitude: 26.760214
+    maxlatitude: 55.517437
+    latitude: 54.80865
+    longitude: 25.218214
 - name: Klaipedos Apskritis
   names:
   - Klaipedos
@@ -54,48 +110,6 @@
     maxlatitude: 55.10449
     latitude: 54.781998
     longitude: 23.134136
-- name: Šiauliu Apskritis
-  names:
-  - Shiauliu
-  code: SA
-  countryalpha2: LT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 22.465702
-    minlatitude: 55.4631
-    maxlongitude: 24.182453
-    maxlatitude: 56.415054
-    latitude: 55.998573
-    longitude: 23.138004
-- name: Vilniaus Apskritis
-  names:
-  - Vilniaus Apskritis
-  code: VL
-  countryalpha2: LT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 24.386375
-    minlatitude: 54.12766
-    maxlongitude: 26.760214
-    maxlatitude: 55.517437
-    latitude: 54.80865
-    longitude: 25.218214
-- name: Alytaus Apskritis
-  names:
-  - Alytaus Apskritis
-  code: AL
-  countryalpha2: LT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 23.312597
-    minlatitude: 53.89748
-    maxlongitude: 25.025223
-    maxlatitude: 54.56347
-    latitude: 54.20002
-    longitude: 24.151264
 - name: Panevežio Apskritis
   names:
   - Panevezhio
@@ -124,17 +138,3 @@
     maxlatitude: 55.688732
     latitude: 55.30726
     longitude: 22.357294
-- name: Utenos Apskritis
-  names:
-  - Utenos Apskritis
-  code: UT
-  countryalpha2: LT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 24.653175
-    minlatitude: 55.030975
-    maxlongitude: 26.835579
-    maxlatitude: 55.94378
-    latitude: 55.5319
-    longitude: 25.79047

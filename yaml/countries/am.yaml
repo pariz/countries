@@ -10,7 +10,7 @@ name:
       official: Республика Армения
 eumember: false
 landlocked: true
-nationality: Armenian
+nationality: ""
 tlds:
 - .am
 languages:

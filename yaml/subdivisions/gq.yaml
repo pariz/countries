@@ -26,6 +26,20 @@
     maxlatitude: 0
     latitude: 49.662167
     longitude: -125.74683
+- name: Kie-Ntem
+  names:
+  - Kie-Ntem
+  code: KN
+  countryalpha2: GQ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 10.401541
+    minlatitude: 1.7260761
+    maxlongitude: 11.335684
+    maxlatitude: 2.187128
+    latitude: 2.028093
+    longitude: 11.071176
 - name: Litoral
   names:
   - Litoral
@@ -110,17 +124,3 @@
     maxlatitude: 2.1742861
     latitude: 1.3436084
     longitude: 10.439656
-- name: Kie-Ntem
-  names:
-  - Kie-Ntem
-  code: KN
-  countryalpha2: GQ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 10.401541
-    minlatitude: 1.7260761
-    maxlongitude: 11.335684
-    maxlatitude: 2.187128
-    latitude: 2.028093
-    longitude: 11.071176

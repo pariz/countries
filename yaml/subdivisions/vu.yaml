@@ -1,3 +1,47 @@
+- name: Shéfa
+  names:
+  - Sandwich Island
+  - Vaté
+  - Éfaté
+  code: SEE
+  countryalpha2: VU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 168.12035
+    minlatitude: -17.824284
+    maxlongitude: 168.64871
+    maxlatitude: -16.567902
+    latitude: -17.652342
+    longitude: 168.3387
+- name: Taféa
+  names:
+  - Taféa
+  code: TAE
+  countryalpha2: VU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 168.98608
+    minlatitude: -20.25049
+    maxlongitude: 170.2373
+    maxlatitude: -18.621328
+    latitude: -18.723783
+    longitude: 169.0645
+- name: Torba
+  names:
+  - Banks-Torres
+  code: TOB
+  countryalpha2: VU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 166.54358
+    minlatitude: -14.465699
+    maxlongitude: 168.06743
+    maxlatitude: -13.072455
+    latitude: -14.28096
+    longitude: 167.51608
 - name: Malampa
   names:
   - Ambrim
@@ -49,47 +93,3 @@
     maxlatitude: -14.643453
     latitude: -15.484002
     longitude: 166.91821
-- name: Shéfa
-  names:
-  - Sandwich Island
-  - Vaté
-  - Éfaté
-  code: SEE
-  countryalpha2: VU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 168.12035
-    minlatitude: -17.824284
-    maxlongitude: 168.64871
-    maxlatitude: -16.567902
-    latitude: -17.652342
-    longitude: 168.3387
-- name: Taféa
-  names:
-  - Taféa
-  code: TAE
-  countryalpha2: VU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 168.98608
-    minlatitude: -20.25049
-    maxlongitude: 170.2373
-    maxlatitude: -18.621328
-    latitude: -18.723783
-    longitude: 169.0645
-- name: Torba
-  names:
-  - Banks-Torres
-  code: TOB
-  countryalpha2: VU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 166.54358
-    minlatitude: -14.465699
-    maxlongitude: 168.06743
-    maxlatitude: -13.072455
-    latitude: -14.28096
-    longitude: 167.51608

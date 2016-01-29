@@ -7,7 +7,7 @@ name:
       official: Русская Федерация
 eumember: false
 landlocked: false
-nationality: Russian
+nationality: ""
 tlds:
 - .ru
 - .su

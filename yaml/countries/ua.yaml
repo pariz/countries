@@ -10,7 +10,7 @@ name:
       official: Україна
 eumember: false
 landlocked: false
-nationality: Ukrainian
+nationality: ""
 tlds:
 - .ua
 - .укр

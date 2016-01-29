@@ -7,7 +7,7 @@ name:
       official: Gibraltar
 eumember: false
 landlocked: false
-nationality: Gibraltar
+nationality: ""
 tlds:
 - .gi
 languages:

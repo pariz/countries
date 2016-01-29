@@ -12,20 +12,6 @@
     maxlatitude: 9.647779
     latitude: 8.537981
     longitude: -80.78213
-- name: Coclé
-  names:
-  - Coclé
-  code: "2"
-  countryalpha2: PA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -80.48219
-    minlatitude: 8.328111
-    maxlongitude: -80.35508
-    maxlatitude: 8.487865
-    latitude: 8.400145
-    longitude: -80.421524
 - name: Chiriquí
   names:
   - Chiriquí
@@ -54,6 +40,76 @@
     maxlatitude: 8.934891
     latitude: 7.868171
     longitude: -77.83673
+- name: Panamá
+  names:
+  - Panamá
+  code: "8"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -79.59786
+    minlatitude: 8.906754
+    maxlongitude: -79.30689
+    maxlatitude: 9.259697
+    latitude: 8.983333
+    longitude: -79.51667
+- name: Veraguas
+  names:
+  - Veraguas
+  code: "9"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 0
+    minlatitude: 0
+    maxlongitude: 0
+    maxlatitude: 0
+    latitude: 8.866667
+    longitude: -80.9
+- name: Bocas del Toro
+  names:
+  - Bocas del Toro
+  code: "1"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -82.33236
+    minlatitude: 9.329281
+    maxlongitude: -82.22743
+    maxlatitude: 9.453332
+    latitude: 9.340556
+    longitude: -82.240555
+- name: Coclé
+  names:
+  - Coclé
+  code: "2"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -80.48219
+    minlatitude: 8.328111
+    maxlongitude: -80.35508
+    maxlatitude: 8.487865
+    latitude: 8.400145
+    longitude: -80.421524
+- name: Colón
+  names:
+  - Colón
+  code: "3"
+  countryalpha2: PA
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: -80.04467
+    minlatitude: 9.242331
+    maxlongitude: -79.831024
+    maxlatitude: 9.404694
+    latitude: 9.333333
+    longitude: -79.9
 - name: Herrera
   names:
   - Herrera
@@ -82,59 +138,3 @@
     maxlatitude: 8.000313
     latitude: 7.59093
     longitude: -80.36587
-- name: Panamá
-  names:
-  - Panamá
-  code: "8"
-  countryalpha2: PA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -79.59786
-    minlatitude: 8.906754
-    maxlongitude: -79.30689
-    maxlatitude: 9.259697
-    latitude: 8.983333
-    longitude: -79.51667
-- name: Bocas del Toro
-  names:
-  - Bocas del Toro
-  code: "1"
-  countryalpha2: PA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -82.33236
-    minlatitude: 9.329281
-    maxlongitude: -82.22743
-    maxlatitude: 9.453332
-    latitude: 9.340556
-    longitude: -82.240555
-- name: Colón
-  names:
-  - Colón
-  code: "3"
-  countryalpha2: PA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: -80.04467
-    minlatitude: 9.242331
-    maxlongitude: -79.831024
-    maxlatitude: 9.404694
-    latitude: 9.333333
-    longitude: -79.9
-- name: Veraguas
-  names:
-  - Veraguas
-  code: "9"
-  countryalpha2: PA
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 0
-    minlatitude: 0
-    maxlongitude: 0
-    maxlatitude: 0
-    latitude: 8.866667
-    longitude: -80.9

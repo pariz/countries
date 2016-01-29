@@ -7,7 +7,7 @@ name:
       official: Magyarország
 eumember: true
 landlocked: true
-nationality: Hungarian
+nationality: ""
 tlds:
 - .hu
 languages:

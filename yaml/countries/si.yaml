@@ -7,7 +7,7 @@ name:
       official: Republika Slovenija
 eumember: true
 landlocked: false
-nationality: Slovene
+nationality: ""
 tlds:
 - .si
 languages:

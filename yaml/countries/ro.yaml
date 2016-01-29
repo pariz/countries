@@ -7,7 +7,7 @@ name:
       official: România
 eumember: true
 landlocked: false
-nationality: Romanian
+nationality: ""
 tlds:
 - .ro
 languages:

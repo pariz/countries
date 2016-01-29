@@ -1,3 +1,17 @@
+- name: Diekirch
+  names:
+  - Diekirch
+  code: D
+  countryalpha2: LU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 6.1175203
+    minlatitude: 49.83493
+    maxlongitude: 6.18069
+    maxlatitude: 49.8987
+    latitude: 49.86718
+    longitude: 6.159563
 - name: Grevenmacher
   names:
   - Grevenmacher
@@ -26,17 +40,3 @@
     maxlatitude: 0
     latitude: 48.845577
     longitude: 2.339852
-- name: Diekirch
-  names:
-  - Diekirch
-  code: D
-  countryalpha2: LU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 6.1175203
-    minlatitude: 49.83493
-    maxlongitude: 6.18069
-    maxlatitude: 49.8987
-    latitude: 49.86718
-    longitude: 6.159563

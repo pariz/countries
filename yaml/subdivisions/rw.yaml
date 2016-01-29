@@ -1,17 +1,3 @@
-- name: Ville de Kigali
-  names:
-  - Ville de Kigali
-  code: "01"
-  countryalpha2: RW
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 30.024948
-    minlatitude: -2.0237231
-    maxlongitude: 30.184145
-    maxlatitude: -1.8858746
-    latitude: -1.943889
-    longitude: 30.059444
 - name: Est
   names:
   - Est
@@ -68,3 +54,17 @@
     maxlatitude: -1.7338349
     latitude: -2.5546618
     longitude: 29.60355
+- name: Ville de Kigali
+  names:
+  - Ville de Kigali
+  code: "01"
+  countryalpha2: RW
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 30.024948
+    minlatitude: -2.0237231
+    maxlongitude: 30.184145
+    maxlatitude: -1.8858746
+    latitude: -1.943889
+    longitude: 30.059444

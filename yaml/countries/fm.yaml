@@ -7,7 +7,7 @@ name:
       official: Federated States of Micronesia
 eumember: false
 landlocked: false
-nationality: Micronesian
+nationality: ""
 tlds:
 - .fm
 languages:

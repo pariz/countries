@@ -1,3 +1,19 @@
+- name: Tadjourah
+  names:
+  - Tadjoura
+  - Tadjourah
+  - Tajura
+  code: TA
+  countryalpha2: DJ
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 42.875572
+    minlatitude: 11.787688
+    maxlongitude: 42.883797
+    maxlatitude: 11.794602
+    latitude: 11.79131
+    longitude: 42.879623
 - name: Arta
   names:
   - Arta
@@ -71,19 +87,3 @@
     maxlatitude: 11.975139
     latitude: 11.964746
     longitude: 43.288406
-- name: Tadjourah
-  names:
-  - Tadjoura
-  - Tadjourah
-  - Tajura
-  code: TA
-  countryalpha2: DJ
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 42.875572
-    minlatitude: 11.787688
-    maxlongitude: 42.883797
-    maxlatitude: 11.794602
-    latitude: 11.79131
-    longitude: 42.879623

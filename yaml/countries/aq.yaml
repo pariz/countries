@@ -4,7 +4,7 @@ name:
   native: {}
 eumember: false
 landlocked: false
-nationality: Antarctican
+nationality: ""
 tlds:
 - .aq
 languages: {}

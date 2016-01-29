@@ -1,45 +1,3 @@
-- name: Fianarantsoa
-  names:
-  - Fianar
-  code: F
-  countryalpha2: MG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 47.041225
-    minlatitude: -21.488852
-    maxlongitude: 47.130318
-    maxlatitude: -21.40652
-    latitude: -21.453611
-    longitude: 47.085835
-- name: Mahajanga
-  names:
-  - Majunga
-  code: M
-  countryalpha2: MG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 46.294655
-    minlatitude: -15.728406
-    maxlongitude: 46.381958
-    maxlatitude: -15.646387
-    latitude: -15.716667
-    longitude: 46.316666
-- name: Antananarivo
-  names:
-  - Tananarive
-  code: T
-  countryalpha2: MG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 47.419136
-    minlatitude: -19.027872
-    maxlongitude: 47.60608
-    maxlatitude: -18.747587
-    latitude: -18.933332
-    longitude: 47.516666
 - name: Toliara
   names:
   - Toliara
@@ -84,3 +42,45 @@
     maxlatitude: -12.266897
     latitude: -12.323135
     longitude: 49.294285
+- name: Fianarantsoa
+  names:
+  - Fianar
+  code: F
+  countryalpha2: MG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.041225
+    minlatitude: -21.488852
+    maxlongitude: 47.130318
+    maxlatitude: -21.40652
+    latitude: -21.453611
+    longitude: 47.085835
+- name: Mahajanga
+  names:
+  - Majunga
+  code: M
+  countryalpha2: MG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 46.294655
+    minlatitude: -15.728406
+    maxlongitude: 46.381958
+    maxlatitude: -15.646387
+    latitude: -15.716667
+    longitude: 46.316666
+- name: Antananarivo
+  names:
+  - Tananarive
+  code: T
+  countryalpha2: MG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 47.419136
+    minlatitude: -19.027872
+    maxlongitude: 47.60608
+    maxlatitude: -18.747587
+    latitude: -18.933332
+    longitude: 47.516666

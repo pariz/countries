@@ -7,7 +7,7 @@ name:
       official: Ελληνική Δημοκρατία
 eumember: true
 landlocked: false
-nationality: Greek
+nationality: ""
 tlds:
 - .gr
 languages:

@@ -26,20 +26,6 @@
     maxlatitude: 3.703082
     latitude: 2.043924
     longitude: 17.668886
-- name: Niari
-  names:
-  - Niari
-  code: "9"
-  countryalpha2: CG
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 11.607122
-    minlatitude: -4.919864
-    maxlongitude: 13.609751
-    maxlatitude: -1.858259
-    latitude: -3.18427
-    longitude: 12.254792
 - name: Bouenza
   names:
   - Bouénza
@@ -124,20 +110,20 @@
     maxlatitude: -2.113381
     latitude: -3.170382
     longitude: 13.358728
-- name: Cuvette
+- name: Niari
   names:
-  - Cuvette
-  code: "8"
+  - Niari
+  code: "9"
   countryalpha2: CG
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 14.349458
-    minlatitude: -2.028305
-    maxlongitude: 17.550545
-    maxlatitude: 0.453031
-    latitude: -0.2877446
-    longitude: 16.158094
+    minlongitude: 11.607122
+    minlatitude: -4.919864
+    maxlongitude: 13.609751
+    maxlatitude: -1.858259
+    latitude: -3.18427
+    longitude: 12.254792
 - name: Brazzaville
   names:
   - Brazzaville
@@ -152,3 +138,17 @@
     maxlatitude: -4.1233473
     latitude: -4.267778
     longitude: 15.291944
+- name: Cuvette
+  names:
+  - Cuvette
+  code: "8"
+  countryalpha2: CG
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 14.349458
+    minlatitude: -2.028305
+    maxlongitude: 17.550545
+    maxlatitude: 0.453031
+    latitude: -0.2877446
+    longitude: 16.158094

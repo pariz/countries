@@ -1,31 +1,3 @@
-- name: Northern Areas
-  names:
-  - Northern Areas
-  code: NA
-  countryalpha2: PK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 72.50466
-    minlatitude: 34.51061
-    maxlongitude: 77.82932
-    maxlatitude: 37.084106
-    latitude: 35.952034
-    longitude: 74.59319
-- name: North-West Frontier
-  names:
-  - North-West Frontier
-  code: NW
-  countryalpha2: PK
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 70.05521
-    minlatitude: 31.191046
-    maxlongitude: 74.137024
-    maxlatitude: 36.91116
-    latitude: 34.95262
-    longitude: 72.331116
 - name: Punjab
   names:
   - Punjab
@@ -110,3 +82,31 @@
     maxlatitude: 35.1311
     latitude: 33.886658
     longitude: 73.93598
+- name: Northern Areas
+  names:
+  - Northern Areas
+  code: NA
+  countryalpha2: PK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 72.50466
+    minlatitude: 34.51061
+    maxlongitude: 77.82932
+    maxlatitude: 37.084106
+    latitude: 35.952034
+    longitude: 74.59319
+- name: North-West Frontier
+  names:
+  - North-West Frontier
+  code: NW
+  countryalpha2: PK
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 70.05521
+    minlatitude: 31.191046
+    maxlongitude: 74.137024
+    maxlatitude: 36.91116
+    latitude: 34.95262
+    longitude: 72.331116

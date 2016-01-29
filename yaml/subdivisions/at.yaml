@@ -1,17 +1,17 @@
-- name: Salzburg
+- name: Oberösterreich
   names:
-  - Salzbourg
-  code: "5"
+  - Upper Austria
+  code: "4"
   countryalpha2: AT
   coordinates:
     longitudestring: ""
     latitudestring: ""
-    minlongitude: 12.98598
-    minlatitude: 47.75131
-    maxlongitude: 13.12688
-    maxlatitude: 47.85431
-    latitude: 47.80949
-    longitude: 13.05501
+    minlongitude: 12.74895
+    minlatitude: 47.46098
+    maxlongitude: 14.99129
+    maxlatitude: 48.77269
+    latitude: 48.025852
+    longitude: 13.972366
 - name: Steiermark
   names:
   - Styria
@@ -26,6 +26,34 @@
     maxlatitude: 47.82789
     latitude: 47.359344
     longitude: 14.469983
+- name: Wien
+  names:
+  - Vienna
+  code: "9"
+  countryalpha2: AT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 16.18262
+    minlatitude: 48.11827
+    maxlongitude: 16.5775
+    maxlatitude: 48.3231
+    latitude: 48.208176
+    longitude: 16.37382
+- name: Salzburg
+  names:
+  - Salzbourg
+  code: "5"
+  countryalpha2: AT
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 12.98598
+    minlatitude: 47.75131
+    maxlongitude: 13.12688
+    maxlatitude: 47.85431
+    latitude: 47.80949
+    longitude: 13.05501
 - name: Tirol
   names:
   - Tyrol
@@ -54,20 +82,6 @@
     maxlatitude: 47.59621
     latitude: 47.249744
     longitude: 9.979737
-- name: Wien
-  names:
-  - Vienna
-  code: "9"
-  countryalpha2: AT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 16.18262
-    minlatitude: 48.11827
-    maxlongitude: 16.5775
-    maxlatitude: 48.3231
-    latitude: 48.208176
-    longitude: 16.37382
 - name: Burgenland
   names:
   - Burgenland
@@ -111,17 +125,3 @@
     maxlatitude: 49.02062
     latitude: 48.108078
     longitude: 15.8049555
-- name: Oberösterreich
-  names:
-  - Upper Austria
-  code: "4"
-  countryalpha2: AT
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 12.74895
-    minlatitude: 47.46098
-    maxlongitude: 14.99129
-    maxlatitude: 48.77269
-    latitude: 48.025852
-    longitude: 13.972366

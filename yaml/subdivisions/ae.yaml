@@ -1,3 +1,18 @@
+- name: Umm al Qaywayn
+  names:
+  - أمّ القيوين
+  - Umm al-Quwain
+  code: UQ
+  countryalpha2: AE
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 55.51752
+    minlatitude: 25.323967
+    maxlongitude: 55.95387
+    maxlatitude: 25.695477
+    latitude: 25.520483
+    longitude: 55.71339
 - name: '''Ajmān'
   names:
   - -إمارة عجمانّ - Ujman
@@ -92,18 +107,3 @@
     maxlatitude: 25.398827
     latitude: 25.3575
     longitude: 55.390835
-- name: Umm al Qaywayn
-  names:
-  - أمّ القيوين
-  - Umm al-Quwain
-  code: UQ
-  countryalpha2: AE
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 55.51752
-    minlatitude: 25.323967
-    maxlongitude: 55.95387
-    maxlatitude: 25.695477
-    latitude: 25.520483
-    longitude: 55.71339

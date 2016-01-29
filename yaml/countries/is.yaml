@@ -7,7 +7,7 @@ name:
       official: Ísland
 eumember: false
 landlocked: false
-nationality: Icelander
+nationality: ""
 tlds:
 - .is
 languages:

@@ -7,7 +7,7 @@ name:
       official: Bundesrepublik Deutschland
 eumember: true
 landlocked: false
-nationality: German
+nationality: ""
 tlds:
 - .de
 languages:

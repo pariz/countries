@@ -10,7 +10,7 @@ name:
       official: Poblacht na hÉireann
 eumember: true
 landlocked: false
-nationality: Irish
+nationality: ""
 tlds:
 - .ie
 languages:

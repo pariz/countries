@@ -7,7 +7,7 @@ name:
       official: Türkiye Cumhuriyeti
 eumember: false
 landlocked: false
-nationality: Turkish
+nationality: ""
 tlds:
 - .tr
 languages:

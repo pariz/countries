@@ -10,7 +10,7 @@ name:
       official: 澳门特别行政区中国人民共和国
 eumember: false
 landlocked: false
-nationality: Chinese
+nationality: ""
 tlds:
 - .mo
 languages:

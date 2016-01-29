@@ -7,7 +7,7 @@ name:
       official: Ile de la Réunion
 eumember: false
 landlocked: false
-nationality: French
+nationality: ""
 tlds:
 - .re
 languages:

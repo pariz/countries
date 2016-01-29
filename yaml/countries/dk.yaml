@@ -7,7 +7,7 @@ name:
       official: Kongeriget Danmark
 eumember: true
 landlocked: false
-nationality: Danish
+nationality: ""
 tlds:
 - .dk
 languages:

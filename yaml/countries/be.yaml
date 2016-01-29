@@ -13,7 +13,7 @@ name:
       official: Koninkrijk België
 eumember: true
 landlocked: false
-nationality: Belgian
+nationality: ""
 tlds:
 - .be
 languages:

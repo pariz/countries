@@ -1,45 +1,3 @@
-- name: Victoria
-  names:
-  - Victoria
-  code: VIC
-  countryalpha2: AU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 140.96248
-    minlatitude: -39.22473
-    maxlongitude: 149.97649
-    maxlatitude: -33.981052
-    latitude: -37.471306
-    longitude: 144.78516
-- name: Western Australia
-  names:
-  - Western Australia
-  code: WA
-  countryalpha2: AU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 112.92145
-    minlatitude: -35.193993
-    maxlongitude: 129.0026
-    maxlatitude: -13.68949
-    latitude: -27.672817
-    longitude: 121.62831
-- name: Australian Capital Territory
-  names:
-  - Australian Capital Territory
-  code: ACT
-  countryalpha2: AU
-  coordinates:
-    longitudestring: ""
-    latitudestring: ""
-    minlongitude: 148.7641
-    minlatitude: -35.920532
-    maxlongitude: 149.39929
-    maxlatitude: -35.12451
-    latitude: -35.47347
-    longitude: 149.01237
 - name: New South Wales
   names:
   - New South Wales
@@ -110,3 +68,45 @@
     maxlatitude: -39.438034
     latitude: -41.365044
     longitude: 146.6285
+- name: Victoria
+  names:
+  - Victoria
+  code: VIC
+  countryalpha2: AU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 140.96248
+    minlatitude: -39.22473
+    maxlongitude: 149.97649
+    maxlatitude: -33.981052
+    latitude: -37.471306
+    longitude: 144.78516
+- name: Western Australia
+  names:
+  - Western Australia
+  code: WA
+  countryalpha2: AU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 112.92145
+    minlatitude: -35.193993
+    maxlongitude: 129.0026
+    maxlatitude: -13.68949
+    latitude: -27.672817
+    longitude: 121.62831
+- name: Australian Capital Territory
+  names:
+  - Australian Capital Territory
+  code: ACT
+  countryalpha2: AU
+  coordinates:
+    longitudestring: ""
+    latitudestring: ""
+    minlongitude: 148.7641
+    minlatitude: -35.920532
+    maxlongitude: 149.39929
+    maxlatitude: -35.12451
+    latitude: -35.47347
+    longitude: 149.01237

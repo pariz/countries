@@ -7,7 +7,7 @@ name:
       official: Република България
 eumember: true
 landlocked: false
-nationality: Bulgarian
+nationality: ""
 tlds:
 - .bg
 languages:

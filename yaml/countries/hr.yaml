@@ -7,7 +7,7 @@ name:
       official: Republika Hrvatska
 eumember: true
 landlocked: false
-nationality: Croatian
+nationality: ""
 tlds:
 - .hr
 languages:
